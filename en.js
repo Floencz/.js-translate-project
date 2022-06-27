@@ -555,17 +555,17 @@ export default {
         "description": "Dovolte nám, abychom se s Vámi podělili o některé výhody, abyste pochopili, proč se s námi dozvíte více. Pokud máte ještě nějaké otázky, podívejte se na naše často kladené otázky.",
         "values": [
             {
-                "id": "flexibilní",
+                "id": "flexible",
                 "title": "FLEXIBILNÍ ROZVRHY",
                 "description": "Svůj rozvrh nemusíte upravovat. Čas a den si určujete sami."
             },
             {
-                "id": "zvukový záznam",
+                "id": "native",
                 "title": "ZVUKOVÝ ZÁZNAM VAŠICH LEKCÍ",
                 "description": "Pokud se předem domluvíte s učitelem, můžete si každou lekci poslechnout."
             },
             {
-                "id": "faktury",
+                "id": "invoices",
                 "title": "POSKYTUJEME FAKTURY",
                 "description": "Pokud potřebujete předložit výdaje na školení pro daňové odpočty, my vám to usnadníme."
             },
@@ -575,42 +575,42 @@ export default {
                 "description": "Celý náš tým je anglicky mluvící, proškolený a zkušený."
             },
             {
-                "id": "soukromý",
+                "id": "private",
                 "title": "SOUKROMÉ DOUČOVÁNÍ",
                 "description": "Zapomeňte na skupinové lekce. Ve Speakingathome budete mít svého soukromého učitele, který je určen pouze pro Vás."
             },
             {
-                "id": "zlepšení",
+                "id": "improve",
                 "title": "ZLEPŠETE SI SVOU ÚROVEŇ",
                 "description": "Zvýšíte si plynulost, slovní zásobu, výslovnost a zlepšíte si gramatiku."
             },
             {
-                "id": "všude",
+                "id": "everywhere",
                 "title": "LEKCE ODKUDKOLI",
                 "description": "Budete potřebovat pouze připojení k internetu a Skype. Udělejte si pohodlí, ať už se rozhodnete pro jakoukoli lekci."
             },
             {
-                "id": "délka",
+                "id": "length",
                 "title": "30 NEBO 60MINUTOVÉ LEKCE",
                 "description": "Máte dvě možnosti trvání. Vyberte si tu, která nejlépe vyhovuje vašim potřebám."
             },
             {
-                "id": "délka",
+                "id": "skype",
                 "title": "PROSTŘEDNICTVÍM SKYPE",
                 "description": "Není třeba instalovat žádný software, stačí mít aktivní účet Skype. Je to tak jednoduché!"
             },
             {
-                "id": "technologie",
+                "id": "technology",
                 "title": "TECHNOLOGIE VE VZDĚLÁNÍ",
                 "description": "Jednoduchá metoda, která přináší revoluci ve výuce cizích jazyků."
             },
             {
-                "id": "cena",
+                "id": "price",
                 "title": "NEJKONKURENCESCHOPNĚJŠÍ CENY",
                 "description": "Když se pozorně podíváte na naše plány výuky tak zjistíte, že jsme cenově nejvýhodnější."
             },
             {
-                "id": "téma",
+                "id": "topic",
                 "title": "ZVOLTE TÉMA ROZHOVORU",
                 "description": "Aby to bylo zábavnější, tak se sami rozhodujete, o čem chcete diskutovat a zlepšujete svou slovní zásobu."
             }
@@ -690,7 +690,7 @@ export default {
             "unique": "Telefonní číslo je již použito"
         },
         "token": {
-            "expired": "pravda"
+            "expired": "true"
         },
         "not-valid-phone": "Telefonní číslo je neplatné",
         "recaptcha-not-valid-h1": "Nejsme si jisti, zda jste člověk.",
