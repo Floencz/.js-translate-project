@@ -560,7 +560,7 @@ export default {
                 "description": "Svůj rozvrh nemusíte upravovat. Čas a den si určujete sami."
             },
             {
-                "id": "native",
+                "id": "audio",
                 "title": "ZVUKOVÝ ZÁZNAM VAŠICH LEKCÍ",
                 "description": "Pokud se předem domluvíte s učitelem, můžete si každou lekci poslechnout."
             },
@@ -570,7 +570,7 @@ export default {
                 "description": "Pokud potřebujete předložit výdaje na školení pro daňové odpočty, my vám to usnadníme."
             },
             {
-                "id": "rodilý",
+                "id": "native",
                 "title": "RODILÍ UČITELÉ NA ŠKOLÁCH",
                 "description": "Celý náš tým je anglicky mluvící, proškolený a zkušený."
             },
