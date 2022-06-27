@@ -625,7 +625,7 @@ export default {
                 "description": "Speakingathome je dokonalým doplňkem znalostí získaných ve školách. Jakmile se naučíte gramatiku, konverzace s rodilým mluvčím účinně zlepší vaši výslovnost a slovní zásobu."
             },
             {
-                "title": "ANGLIČTINA NA POHOVORYS",
+                "title": "ANGLIČTINA NA POHOVORY",
                 "description": "V dnešní době je znalost angličtiny podmínkou u většiny volných pracovních míst. Nepropásněte tyto příležitosti tím, že nejste připraveni. Speakingathome má pouze výhody."
             },
             {
@@ -700,7 +700,7 @@ export default {
         "key": "5a684fd14b401e45400c5956/1c4jt4763"
     },
     "cookies": {
-        "description": "Naše webové stránky používají soubory cookie. Při procházení našich webových stránek souhlasíte s používáním těchto souborů Cookies.",
+        "description": "Naše webové stránky používají soubory Cookies. Při procházení našich webových stránek souhlasíte s používáním těchto souborů Cookies.",
         "accept": "Rozumím!",
         "more_info": "Více informací"
     },
