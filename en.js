@@ -1,58 +1,58 @@
 export default {
     "common": {
-        "duration": "{duration} min | 1 hour",
-        "minutes": "minutes",
-        "hour": "hour",
-        "lesson-text": "lesson | lessons",
-        "price": "Price"
+        "duration": "{duration} min | 1 hodina",
+        "minutes": "minuty",
+        "hour": "hodina",
+        "lesson-text": "vyučovací hodina | vyučovací hodiny",
+        "price": "Cena"
     },
     "header": {
-        "method": "METHOD",
-        "courses": "COURSES",
-        "teachers": "TEACHERS",
+        "method": "METODA",
+        "courses": "KURZY",
+        "teachers": "UČITELÉ",
         "faq": "FAQ",
-        "login": "LOGIN",
+        "login": "PŘIHLÁŠENÍ",
         "blog": "BLOG",
-        "system": "BOOK",
-        "logout": "LOGOUT",
-        "twitter": "Online English lessons. We offer a free trial lesson when you sign up in our website",
+        "system": "OBJEDNAT",
+        "logout": "ODHLÁSIT SE",
+        "twitter": "Online lekce angličtiny. Při registraci na našich webových stránkách nabízíme zkušební lekci zdarma.",
         "facebook": "https://www.facebook.com/sharer.php?u=https://www.speakingathome.com",
         "youtube": "https://www.youtube.com/watch?v=zx1nFdlSdzk&t=10&autoplay=0"
     },
     "footer": {
-        "terms_and_conditions": "TERMS AND CONDITIONS",
-        "privacy_policy": "PRIVACY POLICY",
-        "work_as_english_teacher": "WORK WITH US",
-        "login": "LOGIN",
+        "terms_and_conditions": "PODMÍNKY A USTANOVENÍ",
+        "privacy_policy": "ZÁSADY OCHRANY OSOBNÍCH ÚDAJŮ",
+        "work_as_english_teacher": "SPOLUPRACUJTE S NÁMI",
+        "login": "PŘIHLÁSIT SE",
         "web_map": "SITEMAP",
-        "legal_notice": "LEGAL",
-        "contact": "CONTACT"
+        "legal_notice": "PRÁVNÍ STRÁNKA",
+        "contact": "KONTAKT"
     },
     "index": {
         "head": {
-            "title": "Skype English Classes | English lessons by Skype",
-            "description": "English lessons by Skype with the best native English teachers using Skype. Skype English Classes from 4,99 Euros. Give us a try with a free trial English lesson of 30 minutes.",
-            "keywords": "Skype English classes, English lessons by Skype",
+        "title": "Výuka angličtiny přes Skype  | Lekce angličtiny přes Skype",
+		"description": "Výuka angličtiny přes Skype s nejlepšími rodilými učiteli angličtiny přes platformu Skype. Výuka angličtiny přes Skype od 4,99 eur. Vyzkoušejte nás s 30minutovou zkušební lekcí angličtiny zdarma.",           
+		"keywords": "Výuka angličtiny přes Skype, lekce angličtiny přes Skype",
             "social": {
-                "title": "Get a free trial | English lessons by Skype",
-                "description": "We are an online English school, specialising in teaching and improving your speaking through 1-1 English lessons via Skype. Give us a try with a free trial lessons."
+                "title": "Získejte bezplatnou zkušební verzi | Lekce angličtiny přes platformu Skype",
+                "description": "Jsme online škola angličtiny, která se specializuje na výuku a zdokonalování mluvení prostřednictvím 1-1 lekcí angličtiny přes platformu Skype. Vyzkoušejte nás na bezplatných zkušebních lekcích."
             }
         },
         "body": {
-            "hero-title": "ONLINE ENGLISH LESSONS",
-            "hero-description": "With Speakingathome, you'll be able to achieve progress as never before. Let us show you how.",
-            "hero-image-alt": "Speakingathome home photo",
+            "hero-title": "ONLINE VÝUKA ANGLIČTINY",
+            "hero-description": "Díky Speakingathome budete moci dosáhnout pokroku jako nikdy předtím. Ukážeme Vám, jak na to.",
+            "hero-image-alt": "Speakingathome úvodní fotografie",
             "opinions": [
                 {
-                    "text": "\"I am currently studying English at a language school. I noticed that, although I learned grammar, I wasn't advancing in my speaking because, in classes, we can not dedicate enough time, unlike the conversational lessons of Speakingathome.\"",
+                    "text": "\"V současné době studuji angličtinu na jazykové škole. Všiml jsem si, že ačkoli jsem se naučil gramatiku, v mluvení jsem se neposunul kupředu, protože v hodinách mluvení nemůžeme věnovat dostatek času, na rozdíl od konverzačních hodin Speakingathome.\"",
                     "author": "RODRIGO GARCIA / MADRID"
                 },
                 {
-                    "text": "\"With two daughters, I have very little time. The reason why I chose Speakingathome is because it allows me to organize my lessons from my house, at my own pace, and in my limited free time. I can also choose the teacher I want.\"",
+                    "text": "\"Se dvěma dcerami mám velmi málo času. Důvod, proč jsem si vybrala Speakingathome je ten, že mi umožňuje organizovat výuku z domova vlastním tempem a v mém omezeném volném čase. Mohu si také vybrat učitele, kterého chci.\"",
                     "author": "ROCIO GONZÁLEZ / CÁCERES (EXTREMADURA)"
                 },
                 {
-                    "text": "\"In my company, they subsidize English lessons. I searched several websites, but only Speakingathome met all the requirements established by my company. Invoice, attendance confirmation, test levels, and quality.\"",
+                    "text": "\"V mé firmě dotují výuku angličtiny. Prohledala jsem několik webových stránek, ale pouze Speakingathome splňoval všechny požadavky stanovené mou společností. Faktura, potvrzování docházky, úrovně testů a kvalita.\"",
                     "author": "VERÓNICA / MADRID"
                 }
             ]
@@ -60,21 +60,21 @@ export default {
     },
     "method": {
         "head": {
-            "title": "Learn English by Skype in our online school - Speakingathome",
-            "description": "Speakingathome is an online English school, specialising in teaching and improving your speaking through private English lessons via Skype",
-            "keywords": "English Academy, English school, private English lessons"
+            "title": "Učte se anglicky prostřednictvím Skype v naší online škole - Speakingathome",
+            "description": "Speakingathome je online škola angličtiny, která se specializuje na výuku a zdokonalování mluvení prostřednictvím soukromých lekcí angličtiny přes Skype.",
+            "keywords": "English Akademie, škola angličtiny, soukromé lekce angličtiny"
         },
         "body": {
-            "hero-title": "THE BEST WAY TO LEARN ENGLISH ONLINE",
-            "hero-description": "With Speakingathome, you have all the advantages: price, flexibility of schedules, personalised lessons, faster progress... all designed so you're the winner. Try it now!",
-            "hero-image-alt": "Speakingathome method photo",
+            "hero-title": "NEJLEPŠÍ ZPŮSOB, JAK SE NAUČIT ANGLICKY ONLINE",
+            "hero-description": "Se Speakingathome máte všechny výhody: cenu, časovou flexibilitu, individuální výuku, rychlejší pokrok... vše je navrženo tak, abyste byli vítězem. Vyzkoušejte to nyní!",
+            "hero-image-alt": "Speakingathome method foto",
             "opinions": [
                 {
-                    "text": "\"What I value most in comparison with other kinds of online English sites, is the professional quality of the teachers and the approach they have to make the lesson fun and enjoyable. For me, this method is a much more natural way of learning English. Only studying grammar or doing exercises is not learning a language.\"",
+                    "text": "\"V porovnání s ostatními online stránkami s angličtinou si nejvíce cením profesionální kvality učitelů a jejich přístupu, díky kterému je výuka zábavnější a příjemnější. Pro mě je tato metoda mnohem přirozenější možností, jak se učit angličtinu. Pouhé studium gramatiky nebo cvičení není učením jazyka.\"",
                     "author": "ANA GOMEZ / GIRONA (CATALUÑA)"
                 },
                 {
-                    "text": "\"I travel constantly so I can't attend a traditional Academy. I searched online English academies, and after comparing prices and trying them, I chose Speakingathome because it offers the best quality price and also has the most flexible hours. I'm delighted.\"",
+                    "text": "\"Neustále cestuji, takže se nemohu účastnit tradiční vzdělávací akademie. Hledal jsem online akademie angličtiny a po porovnání cen a vyzkoušení jsem si vybral Speakingathome, protože nabízí nejvýhodnější cenu a má také nejflexibilnější hodinovou nabídku. Jsem z ní nadšený.\"",
                     "author": "DANIEL RODILLA / SALAMANCA"
                 }
             ]
@@ -82,25 +82,25 @@ export default {
     },
     "courses": {
         "head": {
-            "title": "English conversation lesson plans - Learn English by Skype - Speakingathome",
-            "description": "Online English lessons with the best native-English teachers using Skype from 4,99 Euros. Give us a try with a free trial English lesson of 30 minutes. The best English language school on the Internet.",
-            "keywords": "English conversation lesson plans, Learn English by Skype, English conversation course, Skype English lessons"
+            "title": "Plány lekcí anglické konverzace - Učte se anglicky přes Skype - Speakingathome",
+            "description": "Online lekce angličtiny s nejlepšími rodilými mluvčími přes Skype od 4,99 eur. Vyzkoušejte nás s 30minutovou bezplatnou zkušební lekcí angličtiny. Nejlepší jazyková škola angličtiny na internetu.",
+            "keywords": "Plány lekcí anglické konverzace, Učte se anglicky přes Skype, Kurz anglické konverzace, Skype lekce angličtiny"
         },
         "body": {
-            "hero-title": "OUR ONLINE ENGLISH COURSES VIA SKYPE",
-            "hero-description": "Learn English with the most competitive prices on the market. To do this, we have created some specific plans, according to the number and duration of lessons. Choose your best option and discount!",
-            "hero-image-alt": "Online English lessons plans photo",
+            "hero-title": "NAŠE ONLINE KURZY ANGLIČTINY PŘES SKYPE",
+            "hero-description": "Učte se anglicky za nejvýhodnější ceny na trhu. Za tímto účelem jsme vytvořili několik specifických plánů podle počtu a délky lekcí. Vyberte si tu nejlepší možnost a získejte slevu!",
+            "hero-image-alt": "Online plány výuky angličtiny foto",
             "opinions": [
                 {
-                    "text": "\"I'm very happy both with the service and the teacher. Previously having taken group lessons, I hardly had the opportunity to speak. Being in individual lessons, the teacher focuses on my speaking so I've improved much faster and I've managed to remove bad expressions and pronunciations.\"",
+                    "text": "\"Jsem velmi spokojená jak se službami, tak i s učitelem. Dříve jsem chodila na skupinové lekce a neměla jsem téměř žádnou možnost mluvit. Na individuálních lekcích se učitel zaměřuje na mé mluvení, takže jsem se zlepšila mnohem rychleji a podařilo se mi odstranit špatné výrazy a nesprávnou výslovnost.\"",
                     "author": "LAURA EGUILUZ / BARACALDO (VIZCAYA)"
                 },
                 {
-                    "text": "\"After having tried several online English courses, the reason I remained at Speakingathome, is that the teachers are very good, prices are very competitive, lessons are all individual, and I always decide the time and the teacher for my lessons\"",
+                    "text": "\"Poté, co jsem vyzkoušel několik online kurzů angličtiny, jsem zůstal na Speakingathome, protože učitelé jsou velmi dobří, ceny jsou velmi konkurenceschopné, lekce jsou zcela individuální a vždy si určím čas a učitele pro své lekce\"",
                     "author": "PEPO HOYOS / MALAGA"
                 },
                 {
-                    "text": "\"Due to my work, I have very little time for classes. It wasn't possible to travel to academies. What I like most about Speakingathome is that they offer enough availability and always find an opening with a teacher from whom I can receive my lessons.\"",
+                    "text": "\"Kvůli práci mám na výuku velmi málo času. Nebylo možné cestovat po akademiích. Na Speakingathome se mi nejvíce líbí, že nabízí dostatečnou časovou dostupnost a vždy se najde volné místo s učitelem, u kterého mohu výuku absolvovat.\"",
                     "author": "CARLOS IRUELA / GRANADA"
                 }
             ]
@@ -108,25 +108,25 @@ export default {
     },
     "teachers": {
         "head": {
-            "title": "English Teachers via Skype, Native English Teachers - Speakingathome",
-            "description": "English Teachers via Skype. Our teachers are all native English-speaking, with training and experience",
-            "keywords": "English Teachers via skype, Native English Teachers"
+            "title": "Učitelé angličtiny přes Skype, rodilí mluvčí - Speakingathome",
+            "description": "Učitelé angličtiny přes Skype. Naši učitelé jsou rodilými mluvčími, kteří mají vzdělání a zkušenosti s angličtinou.",
+            "keywords": "Učitelé angličtiny přes skype, Rodilí učitelé angličtiny"
         },
         "body": {
-            "hero-title": "YOUR ONLINE ENGLISH TEACHER",
-            "hero-description": "English-speaking natives, with training and educational experience. Meet them!",
-            "hero-image-alt": "Main teachers photo",
+            "hero-title": "VÁŠ ONLINE UČITEL ANGLIČTINY",
+            "hero-description": "Anglicky mluvící rodilí mluvčí s odbornou přípravou a zkušenostmi v oblasti vzdělávání. Seznamte se s nimi!",
+            "hero-image-alt": "Fotografie hlavních učitelů",
             "opinions": [
                 {
-                    "text": "\"In my town it's not easy to find a school or an English teacher. I tried the free lesson offered by Speakingathome, and since then I have not stopped weekly tutoring with them. It is no longer necessary to travel to London or New York, I can receive all kinds of English from anywhere I want.\"",
+                    "text": "\"V mém městě není snadné najít školu nebo učitele angličtiny. Vyzkoušela jsem bezplatnou lekci, kterou nabízí Speakingathome a od té doby jsem aw s nimi nepřestala každý týden doučovat. Už není nutné cestovat do Londýna nebo New Yorku, všechny druhy angličtiny mohu dostávat odkudkoliv chci.\"",
                     "author": "SARA GRACIA / MOLINA DE ARAGÓN (GUADALAJARA)"
                 },
                 {
-                    "text": "\"I've always had very bad English because I'm too shy to speak it, but with Speakingathome teachers, and the formula of lessons from my home, I feel very comfortable. I managed to finally improve my conversation. I'm no longer embarrassed because now I have the fluency and vocabulary to speak with ease.\"",
+                    "text": "\"Vždycky jsem měl velmi špatnou angličtinu, protože jsem se styděl mluvit, ale s učiteli Speakingathome a díky formě výuky z mého domova se cítím velmi dobře. Konečně se mi podařilo zlepšit konverzaci. Už se nestydím, protože teď mám dostatečnou plynulost a slovní zásobu, abych mohl mluvit s naprostou lehkostí.\"",
                     "author": "GUSTAVO REINANTE / SANTIAGO DE COMPOSTELA (GALICIA)"
                 },
                 {
-                    "text": "\"It had been years since I had spoken English and I was somewhat rusty. I did an interview where the level of English was a prerequisite, and the truth is that the experience with Speakingathome was very good. I could practice emulating the interview that I had, and I am very grateful to the teacher as she transformed my speaking and I got the job.\"",
+                    "text": "\"Anglicky jsem už léta nehovořil a byl jsem poněkud zrezivělý. Absolvoval jsem pohovor, kde byla úroveň angličtiny podmínkou, a je pravda, že zkušenost se Speakingathome byla velmi dobrá. Mohl jsem si procvičovat napodobování pohovoru, který jsem absolvoval a jsem lektorovi velmi vděčný, protože přeměnil můj mluvený projev a já jsem získal práci.\"",
                     "author": "CARLOS SANCHEZ / CARMONA (SEVILLE)"
                 }
             ]
@@ -134,100 +134,100 @@ export default {
     },
     "faq": {
         "head": {
-            "title": "English Conversation Lessons Online - English classes by Skype - FAQ - Speakingathome",
-            "description": "FAQ page of Speakingathome, Online English lessons with the best native-English teachers using Skype from 4,99 Euros. Give us a try with a free trial English lesson of 30 minutes. The best English language school on the Internet.",
-            "keywords": "English conversation lessons online, English conversation classes by Skype ,English conversation classes by Internet, skype english lessons, Speakingathome,learning english by Skype ,learning english conversation online, spoken english conversation, english conversation practice"
+            "title": "Lekce anglické konverzace online - kurzy angličtiny přes Skype - FAQ - Speakingathome",
+            "description": "Nejčastější dotazy stránky Speakingathome, Online lekce angličtiny s nejlepšími rodilými mluvčími pomocí služby Skype od 4,99 eur. Vyzkoušejte nás s 30minutovou zkušební lekcí angličtiny zdarma. Nejlepší jazyková škola angličtiny na internetu.",
+            "keywords": "Lekce anglické konverzace online, lekce anglické konverzace přes Skype , lekce anglické konverzace přes internet, skype lekce angličtiny, Speakingathome,učení angličtiny přes Skype , učení anglické konverzace online, mluvená anglická konverzace, cvičení anglické konverzace"
         },
         "body": {
-            "hero-title": "YOUR FREQUENTLY ASKED QUESTIONS ARE ANSWERED",
-            "hero-description": "If you still have doubts that you'll make progress and improve your level of English level through Speakingathome, please look at our answers",
+            "hero-title": "VAŠE NEJČASTĚJŠÍ DOTAZY JSOU ZDE ZODPOVĚZENY",
+            "hero-description": "Pokud stále pochybujete, že díky Speakingathome dosáhnete pokroku a zlepšíte svou úroveň angličtiny, podívejte se na naše odpovědi.",
             "hero-image-alt": "Faq photo",
             "opinions": [
                 {
-                    "text": "\"I am currently studying English at a language school. I noticed that, although I learned grammar, I wasn't advancing in my speaking because, in classes, we can not dedicate enough time, unlike the conversational lessons of Speakingathome.\"",
+                    "text": "\"V současné době studuji angličtinu na jazykové škole. Všiml jsem si, že ačkoli jsem se naučil gramatiku, v mluvení jsem nepokročil, protože v hodinách nemůžeme vyhradit mluvení dostatek času, na rozdíl od konverzačních hodin na Speakingathome.\"",
                     "author": "RODRIGO GARCIA / MADRID"
                 },
                 {
-                    "text": "\"With two daughters, I have very little time. The reason why I chose Speakingathome is because it allows me to organize my lessons from my house, at my own pace, and in my limited free time. I can also choose the teacher I want.\"",
+                    "text": "\"Se dvěma dcerami mám velmi málo času. Důvod, proč jsem si vybrala Speakingathome je ten, že mi umožňuje organizovat výuku z domova vlastním tempem a v mém omezeném volném čase. Mohu si také vybrat učitele, kterého chci.\"",
                     "author": "ROCIO GONZÁLEZ / CÁCERES (EXTREMADURA)"
                 }
             ],
             "questions": [
                 {
-                    "question": "What are English lessons with Speakingathome like?",
-                    "answer": "They are conversational classes online, via Skype, with a single pupil and teacher which focus mainly on enhancing and improving your spoken English."
+                    "question": "Jak vypadají lekce angličtiny se Speakingathome?",
+                    "answer": "Jedná se o konverzační kurzy online přes Skype s jedním studentem a učitelem, které se zaměřují především na zlepšení a zdokonalení mluvené angličtiny."
                 },
                 {
-                    "question": "What level of English do I need?",
-                    "answer": "It is advisable to have a basic level, to be able to maintain a minimum of conversation. If you have any doubts, sign up for your first lesson of 30 minutes, which is free. This enables you to test our method without having to make any commitment."
+                    "question": "Jakou úroveň angličtiny potřebuji?",
+                    "answer": "Je vhodné mít základní úroveň, abyste byli schopni udržet minimální konverzaci. Pokud máte pochybnosti, přihlaste se na první 30minutovou lekci, která je zdarma. Můžete si tak vyzkoušet naši metodu, aniž byste se museli jakkoliv smluvně zavazovat."
                 },
                 {
-                    "question": "For whom are your packages of online English lessons designed?",
-                    "answer": "Our students have a variety of reasons or motivations for wanting to improve their English: business, work, studies, interviews, as a hobby, First, IELTS, TOEFL exam preparation, etc."
+                    "question": "Pro koho jsou určeny vaše balíčky online lekcí angličtiny?",
+                    "answer": "Naši studenti mají různé důvody nebo motivace, proč se chtějí zdokonalit v angličtině: podnikání, práce, studium, pohovory, jako koníček, First, IELTS, TOEFL příprava na zkoušky atd."
                 },
                 {
-                    "question": "What are the opening hours?",
-                    "answer": "Each teacher offers availability at a different time. We have availability even on weekends, during which we are also teaching in our school. Our students book their lessons within the available timeframes offered by the teachers. On a typical day, we usually have time slots available from 8:30 in the morning until 10 at night (GMT+1,Germany, France, Italy and Spain). Remember that the schedules of lessons that you reserve on our calendar are expressed in the timezone that you have configured on your computer."
+                    "question": "Jak je to s provozní dobou?",
+                    "answer": "Každý učitel nabízí dostupnost v jinou dobu. Máme dostupnost i o víkendech, kdy také vyučujeme v naší škole. Naši studenti si objednávají výuku v rámci dostupných termínů, které učitelé poskytují. V běžný den máme obvykle k dispozici časové sloty od 8:30 hodin ráno až do večera do 10 hodin (GMT+1,Německo, Francie, Itálie a Španělsko). Nezapomeňte, že rozvrhy lekcí, které si rezervujete v našem kalendáři, jsou vyjádřeny v časovém pásmu, které máte nastaveno ve svém počítači."
                 },
                 {
-                    "question": "What is the cost of Speakingathome English lessons via Skype?",
-                    "answer": "Prices are varied and are more affordable than most contracted lessons. You can see our prices <a href=\"english_conversation_lesson_plans_by_skype.html#t-sec\">here</a>."
+                    "question": "Jaká je cena lekcí angličtiny Speakingathome přes Skype?",
+                    "answer": "Ceny jsou různé a jsou dostupnější než většina smluvních lekcí. Naše ceny si můžete prohlédnout <a href=\"english_conversation_lesson_plans_by_skype.html#t-sec\">zde</a>."
                 },
                 {
-                    "question": "How can I sign up for lessons with you?",
-                    "answer": "In a simple, fast and fully automated way, you do not need to make calls or contact any telemarketer. The payment process is made by credit / debit card, bank transfer or Paypal. You can buy any of our courses by clicking on the \"Buy\" or \"Contract\" buttons on each page. Then you must register or login with your login and the next page will ask you for the confirmation of the course you have chosen. Finally you will be forwarded to the page of the payment system that you have selected. Your package of online English classes will be active in our system as soon as the payment provider confirms your payment. You can cancel your course and reimburse your money in case you want it before 30 days from the date of purchase and only totally, no cancellations are allowed once the consumption of classes has begun."
+                    "question": "Jak se u vás mohu přihlásit na lekce?",
+                    "answer": "Jednoduchým, rychlým a plně automatizovaným způsobem. Nemusíte volat ani kontaktovat žádného telemarketéra. Platba probíhá prostřednictvím kreditní / debetní karty, bankovního převodu nebo služby Paypal. Kterýkoli z našich kurzů si můžete zakoupit kliknutím na tlačítka \"Koupit\" nebo \" Sjednat\" na každé stránce. Poté se musíte zaregistrovat nebo přihlásit svým přihlašovacím jménem a na další stránce budete požádáni o potvrzení vybraného kurzu. Nakonec budete přesměrováni na stránku platebního systému, který jste si vybrali. Váš balíček online kurzů angličtiny bude v našem systému aktivní, jakmile poskytovatel platby potvrdí Vaši platbu. Zrušit kurz a vrátit peníze můžete v případě, že o to budete stát dříve než za 30 dní od data nákupu, a to pouze úplně, po zahájení čerpání kurzů není zrušení přípustné."
                 },
                 {
-                    "question": "How does the bank transfer payment method work?",
-                    "answer": "Unlike the methods of payment of credit / debit card or Paypal, the method of payment of bank transfer is not instantaneous, you must send the bank transfer to the account indicated by our website, and after one or two days we will verify the payment of your course and we will add it to your account."
+                    "question": "Jak funguje způsob platby bankovním převodem?",
+                    "answer": "Na rozdíl od způsobů platby kreditní / debetní kartou nebo prostřednictvím služby Paypal není způsob platby bankovním převodem okamžitý, musíte zaslat bankovní převod na účet uvedený na našich webových stránkách a po jednom nebo dvou dnech ověříme platbu vašeho kurzu a připíšeme ji na váš účet."
                 },
                 {
-                    "question": "How can I create a Skype account?",
-                    "answer": "It is simple, quick and free. You can create an account on Skype from <a target=\"_blank\" href=\"https://login.skype.com/registration\"> here</a>."
+                    "question": "Jak mohu vytvořit účet Skype?",
+                    "answer": "Je to jednoduché, rychlé a bezplatné. Účet na Skypu si můžete vytvořit <a target=\"_blank\" href=\"https://login.skype.com/registration\"> zde</a>.""
                 },
                 {
-                    "question": "Are all teachers native speakers?",
-                    "answer": "Yes, all our teachers are native speakers. They have experience and training teaching English. You can see some of our teachers here (<a href=\"english_teacher_at_home.html\">See online English teachers</a>)"
+                    "question": "Jsou všichni učitelé rodilými mluvčími?",
+                    "answer": "Ano, všichni naši učitelé jsou rodilými mluvčími. Mají zkušenosti a vzdělání v oblasti výuky angličtiny. Některé z našich učitelů si můžete prohlédnout zde (<a href=\"english_teacher_at_home.html\">Podívejte se na online učitele angličtiny</a>)."
                 },
                 {
-                    "question": "How far in advance can I schedule my lessons?",
-                    "answer": "You need to schedule all lessons at least 12 hours before the starting time of the lesson. The system will not allow you to do so after the deadline."
+                    "question": "Jak dlouho předem si mohu výuku naplánovat?",
+                    "answer": "Na všechny lekce se musíte objednat alespoň 12 hodin před začátkem lekce. Po uplynutí této lhůty Vám to systém již neumožní."
                 },
                 {
-                    "question": "Can I cancel already booked lessons?",
-                    "answer": "Yes, provided that you do it more than 12 hours in advance. The system will not allow you to do so after the deadline."
+                    "question": "Mohu zrušit již objednané lekce?",
+                    "answer": "Ano, pokud tak učiníte více než 12 hodin předem. Po uplynutí lhůty vám to systém již neumožní."
                 },
                 {
-                    "question": "How are already reserved lessons cancelled?",
-                    "answer": "It is not necessary for you communicate the cancellation with your teacher. You can cancel the lesson already scheduled with a simple click. Access our system, on the main tab \"My account\" you will see on the right a listing of your booked and pending English lessons, click on the \"Cancel\" button of the class that you want to cancel and that's it. This option is only available 12 hours in advance of the date of the commencement of your English lesson."
+                    "question": "Jak se dají zrušit již zarezervované lekce?",
+                    "answer": "Není nutné, abyste o zrušení hodiny informovali svého učitele. Již naplánovanou lekci můžete zrušit pouhým kliknutím. Vstupte do našeho systému, na hlavní záložce \"Můj účet\" uvidíte vpravo výpis vašich rezervovaných a čekajících jazykových lekcí, klikněte na tlačítko \"Zrušit\" u lekce, kterou chcete zrušit, a je to. Tato možnost je dostupná pouze 12 hodin před začátkem lekce angličtiny."
                 },
                 {
-                    "question": "Can a teacher cancel an English class already scheduled with me?",
-                    "answer": "Yes, our teachers can have unforeseen circumstances and may cancel a class even 1 hour before the start time. Don't worry, your credit will be returned and you can schedule with him/her or any other teacher within those available hours."
+                    "question": "Může učitel zrušit již naplánovanou hodinu angličtiny?",
+                    "answer": "Ano, naši učitelé mohou mít neočekávané důvody a mohou zrušit lekci i 1 hodinu před začátkem. Nebojte se, kredit vám bude vrácen a vy se můžete objednat znovu k němu/ní nebo k jinému učiteli v rámci těchto volných hodin."
                 },
                 {
-                    "question": "Do English courses online for which I sign up with Speakingathome expire?",
-                    "answer": "Yes, contracted courses are available for 1 year from their start date, after which they are no longer valid."
+                    "question": "Vyprší platnost online kurzů angličtiny, na které se přihlásím u Speakingathome?",
+                    "answer": "Ano, nasmlouvané kurzy jsou k dispozici po dobu jednoho roku od data zahájení, poté již nejsou platné."
                 },
                 {
-                    "question": "Can I receive Speakingathome's lessons from my phone or Tablet?",
-                    "answer": "This depends on whether your smartphone or tablet permits this, although normally any next generation mobile enables videoconferencing for Skype without any problem. It is important, in this case, that the Internet you use is high quality, and that you're in a place where noise will not impede your teacher's ability to listen to you."
+                    "question": "Mohu přijímat lekce Speakingathome ze svého telefonu nebo tabletu?",
+                    "answer": "Záleží na tom, zda to váš chytrý telefon nebo tablet podporuje, i když obvykle všechny mobilní telefony nové generace umožňují videokonference pro Skype bez problémů. V tomto případě je důležité, aby internet, který používáte, byl kvalitní a abyste se nacházeli na místě, kde hluk nebude bránit tomu, aby vás učitel mohl poslouchat."
                 },
                 {
-                    "question": "Can I receive the audio from my lessons in mp3 format, after each lesson?",
-                    "answer": "Yes, although our Academy rules state that you have to remind your teacher at the beginning of the lesson. Recording is an additional service that is subject to technical or human error in the recording. Because of this, this service is not mandatory, so you are not able to not claim the mp3 or the return of credit should there be any problem with this service. When the class is finished, you will have to provide a means for the transfer of the file. We accept only WeTransfer or Dropbox."
+                    "question": "Mohu po skončení každé lekce obdržet zvukový záznam lekce ve formátu mp3?",
+                    "answer": "Ano, i když pravidla naší Akademie stanoví, že je třeba to učiteli na začátku hodiny oznámit. Nahrávání je doplňková služba, která je podmíněna technickou nebo lidskou chybou při nahrávání. Z tohoto důvodu není tato služba povinná, takže nemáte možnost nereklamovat mp3 nebo vrácení kreditu, pokud by se s touto službou vyskytl nějaký problém. Po skončení výuky budete muset zajistit způsob přenosu souboru. Akceptujeme pouze WeTransfer nebo Dropbox."
                 },
                 {
-                    "question": "Is the use of headphones mandatory?",
-                    "answer": "It is not obligatory, but it is highly recommended to make the most of your lesson. By using headphones, you avoid external noises and loss of concentration, you can hear your teacher much better, and also contribute much more to the quality of your lesson's mp3 recording. Therefore, Speakingathome strongly recommends the use of headphones."
+                    "question": "Je povinné používat sluchátka?",
+                    "answer": "Není to povinné, ale důrazně to doporučujeme, abyste lekci využili co nejlépe. Používáním sluchátek se vyhnete vnějším hlukům a ztrátě koncentrace, mnohem lépe uslyšíte svého učitele a také mnohem více přispíváte ke kvalitě mp3 nahrávky vaší lekce. Společnost Speakingathome proto používání sluchátek jednoznačně doporučuje."
                 },
                 {
-                    "question": "What steps can I take to optimise the quality of video conferencing?",
-                    "answer": "Skype is one of the leading videoconferencing systems worldwide and its video conferencing often provides optimum quality. If you notice that the lesson is problematic in the quality of the video or audio, please check that there is no software, such as EMule, BitTorrent, etc. downloading files. These programs use a considerable bandwidth, leaving little bandwidth for the correct use of Skype video conferencing. If despite shutting down this type of program, you are still having problems with your connection, you can choose to turn off the video for Skype and attend the lesson in audio mode only. This will decrease the need for bandwidth of Skype."
+                    "question": "Jaké kroky mohu podniknout pro optimalizaci kvality videokonferencí?",
+                    "answer": "Skype je jedním z předních videokonferenčních systému na celém světě a jeho videokonference často poskytují optimální kvalitu. Pokud si všimnete, že je lekce problematická z hlediska kvality obrazu nebo zvuku, zkontrolujte, zda soubory nestahuje nějaký software, například EMule, BitTorrent apod. Tyto programy spotřebovávají významnou šířku pásma, takže pro správné použití videokonference přes Skype zbývá jen malá šířka pásma. Pokud i přes vypnutí tohoto druhu programu máte stále problémy s připojením, můžete se rozhodnout vypnout video pro Skype a účastnit se výuky pouze v režimu zvuku. Tím se sníží potřeba šířky pásma aplikace Skype."
                 },
                 {
-                    "question": "Can you issue an invoice of my purchase?",
-                    "answer": "Yes of course. You can get the invoice for your purchase from the 'Billing' menu option after you have logged in."
+                    "question": "Můžete mi vystavit fakturu za nákup?",
+                    "answer": "Ano, samozřejmě. Fakturu za nákup můžete získat po přihlášení v nabídce Fakturace."
                 }
             ]
         }
