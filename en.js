@@ -10,7 +10,7 @@ export default {
         "method": "METODA",
         "courses": "KURZY",
         "teachers": "UČITELÉ",
-        "faq": "FAQ",
+        "faq": "ČASTO KLADENÉ DOTAZY",
         "login": "PŘIHLÁŠENÍ",
         "blog": "BLOG",
         "system": "OBJEDNAT",
@@ -134,7 +134,7 @@ export default {
     },
     "faq": {
         "head": {
-            "title": "Lekce anglické konverzace online - kurzy angličtiny přes Skype - FAQ - Speakingathome",
+            "title": "Lekce anglické konverzace online - kurzy angličtiny přes Skype - ČASTO KLADENÉ DOTAZY - Speakingathome",
             "description": "Nejčastější dotazy stránky Speakingathome, Online lekce angličtiny s nejlepšími rodilými mluvčími pomocí služby Skype od 4,99 eur. Vyzkoušejte nás s 30minutovou zkušební lekcí angličtiny zdarma. Nejlepší jazyková škola angličtiny na internetu.",
             "keywords": "Lekce anglické konverzace online, lekce anglické konverzace přes Skype , lekce anglické konverzace přes internet, skype lekce angličtiny, Speakingathome,učení angličtiny přes Skype , učení anglické konverzace online, mluvená anglická konverzace, cvičení anglické konverzace"
         },
@@ -235,482 +235,482 @@ export default {
     "blog": {
         "head": {
             "title": "Blog - Speakingathome",
-            "description": "Speakingathome's blog",
+            "description": "Blog Speakingathome",
             "keywords": ""
         },
         "body": {
-            "title": "Speakingathome's blog",
-            "description": "In our blog you can find information on how to learn English, what techniques to use, tips and curiosities.",
-            "no-posts": "There are no posts.",
-            "author-select": "Author"
+            "title": "Blog Speakingathome",
+            "description": "Na našem blogu najdete informace o tom, jak se učit anglicky, jaké techniky používat a dále také tipy a zajímavosti.",
+            "no-posts": "Nejsou zde žádné příspěvky.",
+            "author-select": "Autor"
         }
     },
     "web_map": {
         "head": {
-            "title": "Web Map - Speakingathome",
-            "description": "Web Map - Speakingathome",
+            "title": "Mapa stránek - Speakingathome",
+            "description": "Mapa stránek - Speakingathome",
             "keywords": ""
         },
         "body": {
-            "title": "WEB MAP"
+            "title": "Mapa stránek"
         }
     },
     "legal_notice": {
         "head": {
-            "title": "Legal Notice - Speakingathome",
-            "description": "Legal Notice of Speakingathome",
+            "title": "Právní upozornění - Speakingathome",
+            "description": "Právní upozornění - Speakingathome",
             "keywords": ""
         },
         "body": {
-            "title": "LEGAL WARNING",
+            "title": "PRÁVNÍ UPOZORNĚNÍ",
             "texts": [
-                "Speakingathome, Ltd Identifying data with ID: B87350856 is the owner of the portal, which operates under the domain speakingathome.com. Residing at Julio Romero Street, 12, 2nd of Móstoles (Madrid), registered in the Mercantile Registry of Madrid in volume 33768, sheet 171, inscription 1, page M-607764.",
-                "The contact e-mail address is as follows: <strong>contact@speakingathome.com</strong>",
-                "The <a href=\"https://www.speakingathome.com\" class=\"text-red\">https://www.speakingathome.com</a> domain name is owned by Speakingathome, Ltd"
+                "Speakingathome, Ltd Identifikační údaje s ID: B87350856 je vlastníkem portálu, který je provozován pod doménou speakingathome.com. Sídlí na adrese Julio Romero Street, 12, 2nd of Móstoles (Madrid), je zapsána v obchodním rejstříku v Madridu ve svazku 33768, list 171, nápis 1, strana M-607764.",
+                "Kontaktní e-mailová adresa je následující: <strong>contact@speakingathome.com</strong>",
+                "Doménové jméno <a href=\"https://www.speakingathome.com\" class=\"text-red\">https://www.speakingathome.com</a> je ve vlastnictví společnosti Speakingathome, Ltd"
             ]
         }
     },
     "checkout": {
         "head": {
-            "title": "Confirm Selected Course - Speakingathome",
+            "title": "Potvrzení vybraného kurzu - Speakingathome",
             "description": "",
             "keywords": ""
         },
         "body": {
-            "title": "CONFIRM YOUR COURSE",
-            "greeting": "Hello {name},",
-            "detail": "this is your course:",
-            "lessons": "LESSONS",
-            "duration": "DURATION",
-            "price_per_lesson": "PER LESSON",
-            "total_price": "PRICE",
-            "saving": "SAVING",
-            "confirm": "Confirm",
-            "pay": "Pay",
-            "change_course": "I want to change the course",
-            "product_display": "1 English lesson of {duration} course (price: {price}€) | {lessons} lessons of {duration} course (price: {price}€)",
-            "trial_product_display": "1 free trial lesson (price: {price}€) | 1 trial lesson (price: {price}€)",
-            "select-payment": "Please, select your payment method",
-            "secure": "You will be transferred to a secure platform to complete the payment.",
-            "save-card": "I want to save my card for future purchases",
-            "another-card": "Use another card",
-            "card": "Credit card",
-            "bank-transfer": "Bank transfer",
-            "bank-transfer-details": "Click \"Pay\" to get the details of the bank transfer.",
-            "paypal-details": "You will be transferred to the secure Paypal platform to finalize your payment.",
-            "special-offer": "This is a special offer!",
-            "offer-expiration-date":  "This offer will expire on {expirationDate}.",
-            "uses-left": "You can buy this course 1 time. | You can buy this course {usesLeft} times.",
+            "title": "POTVRĎTE SVŮJ KURZ",
+            "greeting": "Ahoj {name},",
+            "detail": "toto je Váš kurz:",
+            "lessons": "LEKCE",
+            "duration": "DOBA TRVÁNÍ",
+            "price_per_lesson": "ZA LEKCI",
+            "total_price": "CENA",
+            "saving": "ÚSPORA",
+            "confirm": "Potvrdit",
+            "pay": "Zaplatit",
+            "change_course": "Chci změnit kurz",
+            "product_display": "1 lekce angličtiny v rozsahu {duration} kurzu (cena: {price}€) | {lessons} lekce v rozsahu {duration} kurzu (cena: {price}€)",
+            "trial_product_display": "1 zkušební lekce zdarma (cena: {price}€) | 1 zkušební lekce (cena: {price}€)",
+            "select-payment": "Vyberte prosím způsob platby",
+            "secure": "Budete přepojeni na zabezpečenou platformu, kde dokončíte platbu.",
+            "save-card": "Chci si kartu uložit pro budoucí nákupy",
+            "another-card": "Použití jiné karty",
+            "card": "Kreditní karta",
+            "bank-transfer": "Bankovní převod",
+            "bank-transfer-details": "Kliknutím na \"Zaplatit\" zobrazíte podrobnosti bankovního převodu.",
+            "paypal-details": "Budete přepojeni na zabezpečenou platformu společnosti Paypal, kde můžete dokončit platbu.",
+            "special-offer": "Toto je speciální nabídka!",
+            "offer-expiration-date":  "Tato nabídka vyprší dne {expirationDate}.",
+            "uses-left": "Tento kurz si můžete zakoupit 1krát. | Tento kurz si můžete koupit {usesLeft} krát.",
             "change-course": {
-                "title": "Change course",
-                "30": "30 minutes lessons",
-                "60": "1 hour lessons",
-                "trial": "trial"
+                "title": "Změna kurzu",
+                "30": "30 minutové lekce",
+                "60": "Hodinové lekce",
+                "trial": "zkušební lekce"
             }
         }
     },
     "confirmation": {
         "head": {
-            "title": "Confirmation - Speakingathome",
+            "title": "Potvrzení - Speakingathome",
             "description": "",
             "keywords": ""
         },
         "body": {
-            "continue": "Continue",
-            "cancel": "Cancel",
-            "more-lessons": "Do you want to buy more lessons?",
-            "click-here": "Click here",
+            "continue": "Pokračovat",
+            "cancel": "Zrušit",
+            "more-lessons": "Přejete si koupit další lekce?",
+            "click-here": "Klikněte zde",
             "free": {
-                "welcome": "Welcome to Speakingathome!",
-                "added": "You already have your trial lesson.",
-                "step_1": "You can vote for us on your favourite social network by clicking on one of these buttons:",
-                "step_2": "In order to book your lesson, please, click the button below:"
+                "welcome": "Vítejte na Speakingathome!",
+                "added": "Zkušební lekci již máte.",
+                "step_1": "Hlasovat pro nás můžete na své oblíbené sociální síti kliknutím na jedno z těchto tlačítek:",
+                "step_2": "Pro rezervaci lekce klikněte na tlačítko níže:"
             },
             "loading": {
-                "title": "Confirming your payment",
-                "description": "Thank you for trusting us. We are processing your payment. Please, hold on."
+                "title": "Potvrzování Vaší platby",
+                "description": "Děkujeme za důvěru, kterou jste nám projevili. Zpracováváme vaši platbu. Vydržte prosím."
             },
             "paid": {
-                "title": "Purchase complete!",
-                "thank_you": "Thank you for trusting us.",
-                "processed": "The payment transaction has been processed and you will receive soon a confirmation email.",
-                "details": "This is your course:",
-                "book-now": "Book your lessons now!"
+                "title": "Nákup je dokončen!",
+                "thank_you": "Děkujeme Vám za důvěru.",
+                "processed": "Platební transakce byla provedena a brzy obdržíte potvrzovací e-mail.",
+                "details": "Toto je váš kurz:",
+                "book-now": "Zarezervujte si lekce nyní!"
             },
             "transfer": {
-                "title": "Order complete",
-                "thank-you": "Thank you for trusting us.",
-                "details": "To finish your order, please, make a bank transfer to the following account:",
-                "bic": "BIC code",
-                "holder": "Holder",
-                "concept": "Concept",
-                "amount": "Amount",
-                "time": "The period of time to make the bank transfer is 5 days.",
-                "detected": "Once we detect the payment, you will receive an email to start your lessons."
+                "title": "Objednávka dokončena",
+                "thank-you": "Děkujeme Vám za Vaši důvěru.",
+                "details": "Pro dokončení objednávky prosím proveďte bankovní převod na následující účet:",
+                "bic": "Kód BIC",
+                "holder": "Držitel účtu",
+                "concept": "Koncept",
+                "amount": "Částka",
+                "time": "Lhůta pro provedení bankovního převodu je 5 dní.",
+                "detected": "Jakmile zjistíme platbu, tak obdržíte e-mail, na základě kterého můžete zahájit výuku."
             },
             "error": {
-                "payment-not-found": "Payment not found",
-                "payment-description": "We cannot find your payment, please, write an email to contact@speakingathome.com"
+                "payment-not-found": "Platba nebyla nalezena",
+                "payment-description": "Nemůžeme najít Vaši platbu, napište nám prosím e-mail contact@speakingathome.com."
             }
         }
     },
     "contact": {
         "head": {
-            "title": "Contact with us - Speakingathome",
-            "description": "Contact our English school for any questions regarding online English courses and individual lesson packages. We are always at your disposal!",
+            "title": "Kontaktujte nás - Speakingathome",
+            "description": "Kontaktujte naši školu angličtiny s dotazy ohledně online kurzů angličtiny a individuálních balíčků lekcí. Jsme Vám kdykoliv k službám!",
             "keywords": ""
         },
         "body": {
-            "title": "CONTACT FORM",
-            "success_message": "Thank you for contacting us. Your message has been sent correctly. We'll try to answer as soon as possible.",
-            "description": "You can contact us by sending an e-mail to contact@speakingathome.com, or you can complete the following form:",
-            "name": "Name",
-            "email": "Email",
-            "phone": "Mobile number",
-            "skype": "Skype account",
-            "subject": "Subject",
-            "message": "Message",
-            "submit": "Send"
+            "title": "KONTAKTNÍ FORMULÁŘ",
+            "success_message": "Děkujeme, že jste nás kontaktovali. Vaše zpráva byla správně odeslána. Budeme se snažit odpovědět co nejdříve.",
+            "description": "Můžete nás kontaktovat zasláním e-mailu na adresu contact@speakingathome.com nebo vyplněním následujícího formuláře:",
+            "name": "Jméno",
+            "email": "E-mail",
+            "phone": "Číslo mobilního telefonu",
+            "skype": "Účet služby Skype",
+            "subject": "Předmět",
+            "message": "Zpráva",
+            "submit": "Odeslat"
         }
     },
     "forgot-password": {
         "head": {
-            "title": "Reset Password - Speakingathome",
+            "title": "Obnovení hesla - Speakingathome",
             "description": "",
             "keywords": ""
         },
         "body": {
-            "title": "RESTORE PASSWORD",
-            "success": "Please check your mail box. We've emailed you a link to reset your password. (Only in case that your email address has an account in our system)",
-            "description": "If you forgot your password, please enter your email address and we'll send you an email to reset your password.",
-            "email": "Email",
-            "submit": "Send Email"
+            "title": "OBNOVENÍ HESLA",
+            "success": "Zkontrolujte si prosím svou e-mailovou schránku. Poslali jsme vám e-mailem odkaz pro obnovení hesla. (Pouze v případě, že vaše e-mailová adresa má vytvořený účet v našem systému).",
+            "description": "Pokud jste zapomněli své heslo, zadejte prosím svou e-mailovou adresu a my vám zašleme e-mail pro obnovení hesla.",
+            "email": "E-mail",
+            "submit": "Odeslat e-mail"
         }
     },
     "set-password": {
         "head": {
-            "title": "New Password - Speakingathome",
+            "title": "Nové heslo - Speakingathome",
             "description": "",
             "keywords": ""
         },
         "body": {
-            "success": "Your new password has been saved successfully.",
-            "login": "Login",
-            "title": "PLEASE, SET YOUR NEW PASSWORD",
-            "token-expired": "It is possible that your connecting time for this web address has expired or that you made a mistake writing the URL address. Please check that the web address was copied correctly or try again.",
-            "forgot-password": "Try again",
-            "password": "New Password",
-            "repeat_password": "Repeat Password",
-            "submit": "Save Password"
+            "success": "Vaše nové heslo bylo zdárně uloženo.",
+            "login": "Přihlášení",
+            "title": "NASTAVTE SI PROSÍM NOVÉ HESLO",
+            "token-expired": "Je možné, že doba připojení k této webové adrese již vypršela nebo že jste adresu URL napsali chybně. Zkontrolujte, zda byla webová adresa správně opsána, nebo to zkuste znovu.",
+            "forgot-password": "Zkuste to ještě jednou",
+            "password": "Nové heslo",
+            "repeat_password": "Opakujte Nové Heslo",
+            "submit": "Uložit heslo"
         }
     },
     "error_page_new_release": {
         "head": {
-            "title": "Updating the web application",
+            "title": "Aktualizování webové aplikace",
             "description": "",
             "keywords": ""
         },
         "body": {
-            "title": "Updating the web application",
-            "description": "The web application is refreshing because there has been an update. Please, wait."
+            "title": "Aktualizování webové aplikace",
+            "description": "Webová aplikace se obnovuje, protože došlo k aktualizaci. Vydržte, prosím."
         }
     },
     "error_page_404": {
         "head": {
-            "title": "Error 404 - Page no found",
+            "title": "Chyba 404 - stránka nebyla nalezena",
             "description": "",
             "keywords": ""
         },
         "body": {
-            "title": "ERROR",
-            "description": "Page not found",
-            "advice": "Please check the URL",
-            "back": "Back"
+            "title": "CHYBA",
+            "description": "Stránka nebyla nalezena",
+            "advice": "Zkontrolujte prosím adresu URL",
+            "back": "Zpět"
         }
     },
     "error_page_500": {
         "head": {
-            "title": "Error 500 - Internal Server Error",
+            "title": "Chyba 500 - Interní chyba serveru",
             "description": "",
             "keywords": ""
         },
         "body": {
-            "title": "ERROR",
-            "description": "Internal Server Error",
-            "advice": "Something has happened in our server, please try again in a few minutes.",
-            "refresh": "Refresh"
+            "title": "CHYBA",
+            "description": "Interní chyba serveru",
+            "advice": "Na našem serveru se něco pokazilo, zkuste to prosím za několik minut znovu.",
+            "refresh": "Obnovit"
         }
     },
     "login": {
         "head": {
-            "title": "Login - Speakingathome",
-            "description": "Access to Speakingathome, online portal for online students and personalized service. In your reserved area, check the data and the time of your next class.",
+            "title": "Přihlášení - Speakingathome",
+            "description": "Přístup do Speakingathome, online portálu pro online studenty a individuální služby. Ve své vyhrazené oblasti si můžete zkontrolovat údaje a čas příští hodiny.",
             "keywords": ""
         },
         "body": {
-            "title": "Login",
-            "new-user": "No account?",
-            "click-here": "Click here",
-            "with-social-media": "With social networks",
-            "with-email":  "With email"
+            "title": "Přihlášení",
+            "new-user": "Nemáte účet?",
+            "click-here": "Klikněte zde",
+            "with-social-media": "Pomocí sociálních sítí",
+            "with-email":  "Pomocí e-mailu"
         }
     },
     "register": {
         "head": {
-            "title": "Register - Speakingathome",
-            "description": "Register on our platform and get a free English class immediately. Complete the form in a few simple steps and discover how to easily improve your English.",
+            "title": "Registrace - Speakingathome",
+            "description": "Zaregistrujte se na naší platformě a okamžitě získejte bezplatnou lekci angličtiny. Vyplňte formulář v několika málo krocích a zjistěte, jak si snadno zlepšit angličtinu.",
             "keywords": ""
         },
         "body": {
-            "title": "Register",
-            "login-title": "Login",
-            "already_registered": "Already a member?",
-            "click_here": "Click here",
-            "with-social-media": "With social networks",
-            "with-facebook": "Continue with Facebook",
-            "with-google": "Continue with Google",
-            "with-email": "With email",
-            "continue-with-email": "Continue with email",
-            "or": "Or",
-            "another-option": "Register with another option"
+            "title": "Registrace",
+            "login-title": "Přihlášení",
+            "already_registered": "Jste již členem?",
+            "click_here": "Klikněte zde",
+            "with-social-media": "Pomocí sociálních sítí",
+            "with-facebook": "Pokračovat přes Facebook",
+            "with-google": "Pokračovat přes Google",
+            "with-email": "pomocí e-mailu",
+            "continue-with-email": "pokračovat pomocí e-mailu",
+            "or": "Nebo",
+            "another-option": "Zaregistrujte se pomocí jiné možnosti"
         }
     },
     "login_form": {
-        "email": "Email",
-        "password": "Password",
-        "forgot_password": "Forgot your password?",
-        "login": "Login",
-        "register": "Register",
-        "bad_credentials": "The email and password you entered do not match our records. Please, review and try again."
+        "email": "E-mail",
+        "password": "Heslo",
+        "forgot_password": "Zapomněli jste heslo?",
+        "login": "Přihlášení",
+        "register": "Registrace",
+        "bad_credentials": "aný e-mail a heslo neodpovídají našim záznamům. Zkontrolujte je prosím a zkuste to znovu."
     },
     "register_form": {
-        "first_name": "First Name",
-        "last_name": "Last Name",
-        "email": "Email",
-        "password": "Password",
-        "password_hint": "The password must have 6 or more characters",
-        "phone": "Mobile number",
-        "skype": "Skype account",
-        "skype-hint": "ID or email",
-        "country": "Country",
-        "sign_in": "Sign in",
-        "terms_and_conditions": "By clicking Continue, you are indicating that you have read, understood and agree with the <a href=\"{terms_link}\" target=\"_blank\">Terms and Conditions</a> and the <a href=\"{privacy_link}\" target=\"_blank\">Privacy Policy</a> of our web."
+        "first_name": "Křestní jméno",
+        "last_name": "Příjmení",
+        "email": "E-mail",
+        "password": "Heslo",
+        "password_hint": "Heslo musí mít 6 nebo více znaků",
+        "phone": "Číslo mobilního telefonu",
+        "skype": "Účet Skype",
+        "skype-hint": "ID nebo e-mail",
+        "country": "Země",
+        "sign_in": "Přihlásit se",
+        "terms_and_conditions": "Kliknutím na tlačítko Pokračovat dáváte najevo, že jste si přečetli <a href=\"{terms_link}\" target=\"_blank\">Obchodní podmínky</a> a <a href=\"{privacy_link}\" target=\"_blank\">Zásady ochrany osobních údajů</a> našeho webu, že jim rozumíte a souhlasíte s nimi."
     },
     "landing-page": {
         "head": {
-            "title": "Learn english online on skype: english lesson, speaking, grammar",
+            "title": "Učte se anglicky online na Skypu: lekce angličtiny, mluvení, gramatika",
             "description": "",
             "keywords": ""
         },
         "body": {
-            "title": "Register free and start talking to native teachers!",
+            "title": "Zaregistrujte se zdarma a začněte mluvit s rodilými lektory!",
             "subtitle": "",
-            "try-free": "Try free",
-            "first-lesson-free": "YOUR FIRST LESSON IS FREE!",
-            "terms_and_conditions": "By clicking Try free, you are indicating that you have read, understood and agree with the <a href=\"{terms_link}\" target=\"_blank\">Terms and Conditions</a> and the <a href=\"{privacy_link}\" target=\"_blank\">Privacy Policy</a> of our web.",
-            "please-register": "To get your free lesson, please, register",
-            "telephone-explanation": "(We will only use it if there is any problem with Skype)",
+            "try-free": "Vyzkoušejte zdarma",
+            "first-lesson-free": "PRVNÍ LEKCE JE ZDARMA!",
+            "terms_and_conditions": "Kliknutím na tlačítko Vyzkoušet zdarma dáváte najevo, že jste si přečetli <a href=\"{terms_link}\" target=\"_blank\">Obchodní podmínky</a> a <a href=\"{privacy_link}\" target=\"_blank\">Zásady ochrany osobních údajů</a> našeho webu, že jim rozumíte a souhlasíte s nimi.",
+            "please-register": "Pro získání lekce zdarma se zaregistrujte.",
+            "telephone-explanation": "(Použijeme jej pouze v případě, že se vyskytne nějaký problém se Skypem)",
             "slides": [{
                 "img": "Andrea.jpg",
                 "name": "Andrea",
-                "job": "Analyst Programmer",
-                "text": "The good part of learning English with Speakingathome's teachers is that I enjoy every lesson, it is not an effort for me to take lessons with them."
+                "job": "Programátor analytik",
+                "text": "Na výuce angličtiny s učiteli Speakingathome je dobré to, že si každou hodinu užívám a není to pro mě žádná velká námaha."
             }, {
                 "img": "Nicolas.jpg",
                 "name": "Nicolas",
-                "job": "Administrative",
-                "text": "My English level was incredibly low, I tried group lessons but I never had the opportunity to speak. With the private English lessons of Speakingathome I have gained a lot of confidence in my spoken English"
+                "job": "Administrativa",
+                "text": "Moje úroveň angličtiny byla neuvěřitelně nízká, zkoušel jsem skupinové lekce, ale nikdy jsem neměl příležitost mluvit. Díky soukromým lekcím angličtiny Speakingathome jsem získal velkou sebedůvěru ve své mluvené angličtině."
             }, {
                 "img": "Nathalie.jpg",
                 "name": "Nathalie",
-                "job": "Executive",
-                "text": "I had a high level of English from the beginning, but I needed to get rid of my mother language accent when speaking in English, after a complete course I've achieved my target I am close to get the C1 certification."
+                "job": "Vedoucí pracovník",
+                "text": "Od začátku jsem měl vysokou úroveň angličtiny, ale potřeboval jsem se zbavit přízvuku v mateřském jazyce, když mluvím anglicky. Po kompletním kurzu jsem dosáhl svého cíle a jsem blízko získání certifikátu C1."
             }]
         }
     },
     "hero": {
         "button": {
-            "trial": "Free lesson",
-            "packages": "Lesson package"
+            "trial": "Bezplatná lekce",
+            "packages": "Balíček lekcí"
         }
     },
     "prices": {
-        "title": "CHOOSE YOUR BEST RATE",
-        "description": "We have the most competitive prices on the market. You'll also receive significant discounts depending on which lesson package you buy. Sign up for the plan that works for you.",
+        "title": "VYBERTE SI NEJLEPŠÍ CENU",
+        "description": "Máme nejkonkurenčnější ceny na trhu. Získáte také výrazné slevy v závislosti na tom, jaký výukový balíček si zakoupíte. Přihlaste se k plánu, který vám vyhovuje.",
         "values": [
-            "'Like' us on social networks and you'll have the chance of trying out our method with a free trial lesson. Yes! 0 € because we know you'll like it.",
-            "Affordable and effective at the same time. Buy a plan of 80 30-minute lessons and you'll get the most competitive market price per lesson.",
-            "Would you like to try our 10 lesson package? This will be your price per lesson if you buy a plan of 10 lessons of 30 minutes each.",
-            "Is your level too high and 30 minutes too short? Get our best rate per class. You can also sign up for 40 1-hour lessons."
+            "'Lajkujte nás na sociálních sítích a budete mít možnost vyzkoušet si naši metodu s bezplatnou zkušební lekcí. Ano! 0 €, protože víme, že se Vám to bude líbit.",
+            "Cenově dostupné a zároveň účinné. Zakupte si plán 80 30minutových lekcí a získáte nejvýhodnější cenu na trhu za lekci.",
+            "Chcete vyzkoušet náš balíček 10 lekcí? Toto je cena za lekci, pokud si zakoupíte plán 10 lekcí v délce 30 minut.",
+            "Je vaše úroveň příliš vysoká a 30 minut příliš krátkých? Získejte naši nejlepší sazbu za hodinu. Můžete se také přihlásit na 40 hodinových lekcí."
         ],
-        "sign-up": "Sign Up"
+        "sign-up": "Registrace"
     },
     "promo-video": {
-        "title": "DISCOVER OUR METHOD IN 1 MINUTE",
-        "description": "Would you like us to explain why Speakingathome is the best way to advance your English level? Find out through this video. We look forward to hearing from you.",
+        "title": "OBJEVTE NAŠI METODU ZA 1 MINUTU",
+        "description": "Přejete si, abychom Vám vysvětlili, proč je Speakingathome nejlepším způsobem, jak zvýšit úroveň Vaší angličtiny? Zjistěte to prostřednictvím tohoto videa. Těšíme se na vaše dotazy.",
         "url": "https://www.youtube.com/embed/zx1nFdlSdzk?autoplay=1"
     },
     "advantages": {
-        "title": "THE ADVANTAGES OF SPEAKINGATHOME",
-        "description": "Allow us to share some of the benefits, so you can understand why you're going to learn more with us. And if you still some questions, take a look at our frequently asked questions (FAQ’s).",
+        "title": "VÝHODY SPEAKINGATHOME",
+        "description": "Dovolte nám, abychom se s Vámi podělili o některé výhody, abyste pochopili, proč se s námi dozvíte více. Pokud máte ještě nějaké otázky, podívejte se na naše často kladené otázky.",
         "values": [
             {
-                "id": "flexible",
-                "title": "FLEXIBLE SCHEDULES",
-                "description": "You don't have to adjust your schedule. You decide the time and day."
+                "id": "flexibilní",
+                "title": "FLEXIBILNÍ ROZVRHY",
+                "description": "Svůj rozvrh nemusíte upravovat. Čas a den si určujete sami."
             },
             {
-                "id": "audio",
-                "title": "AUDIO OF YOUR LESSONS",
-                "description": "If you make a request with the teacher beforehand, you can have the audio of each lesson."
+                "id": "zvukový záznam",
+                "title": "ZVUKOVÝ ZÁZNAM VAŠICH LEKCÍ",
+                "description": "Pokud se předem domluvíte s učitelem, můžete si každou lekci poslechnout."
             },
             {
-                "id": "invoices",
-                "title": "WE PROVIDE INVOICES",
-                "description": "If you need to submit training expenses for tax deductions, we make it easy."
+                "id": "faktury",
+                "title": "POSKYTUJEME FAKTURY",
+                "description": "Pokud potřebujete předložit výdaje na školení pro daňové odpočty, my vám to usnadníme."
             },
             {
-                "id": "native",
-                "title": "NATIVE SCHOOL TEACHERS",
-                "description": "Our entire team is English-speaking, with training and experience."
+                "id": "rodilý",
+                "title": "RODILÍ UČITELÉ NA ŠKOLÁCH",
+                "description": "Celý náš tým je anglicky mluvící, proškolený a zkušený."
             },
             {
-                "id": "private",
-                "title": "PRIVATE TUTORING",
-                "description": "Forget group lessons. At Speakingathome, you'll have your own private teacher, just for you."
+                "id": "soukromý",
+                "title": "SOUKROMÉ DOUČOVÁNÍ",
+                "description": "Zapomeňte na skupinové lekce. Ve Speakingathome budete mít svého soukromého učitele, který je určen pouze pro Vás."
             },
             {
-                "id": "improve",
-                "title": "IMPROVE YOUR LEVEL",
-                "description": "You will increase fluency, vocabulary, and pronunciation, as well as improve your grammar."
+                "id": "zlepšení",
+                "title": "ZLEPŠETE SI SVOU ÚROVEŇ",
+                "description": "Zvýšíte si plynulost, slovní zásobu, výslovnost a zlepšíte si gramatiku."
             },
             {
-                "id": "everywhere",
-                "title": "LESSONS FROM ANYWHERE",
-                "description": "You will only need an Internet connection and Skype. Make yourself comfortable wherever you choose to do your lesson."
+                "id": "všude",
+                "title": "LEKCE ODKUDKOLI",
+                "description": "Budete potřebovat pouze připojení k internetu a Skype. Udělejte si pohodlí, ať už se rozhodnete pro jakoukoli lekci."
             },
             {
-                "id": "length",
-                "title": "30- OR 60-MINUTE LESSONS",
-                "description": "You have two duration options. Choose the one that best suits your needs."
+                "id": "délka",
+                "title": "30 NEBO 60MINUTOVÉ LEKCE",
+                "description": "Máte dvě možnosti trvání. Vyberte si tu, která nejlépe vyhovuje vašim potřebám."
             },
             {
-                "id": "skype",
-                "title": "THROUGH SKYPE",
-                "description": "No software to install, just your active Skype account. It's that easy!"
+                "id": "délka",
+                "title": "PROSTŘEDNICTVÍM SKYPE",
+                "description": "Není třeba instalovat žádný software, stačí mít aktivní účet Skype. Je to tak jednoduché!"
             },
             {
-                "id": "technology",
-                "title": "TECHNOLOGY IN EDUCATION",
-                "description": "A simple method that revolutionises the way of learning foreign languages."
+                "id": "technologie",
+                "title": "TECHNOLOGIE VE VZDĚLÁNÍ",
+                "description": "Jednoduchá metoda, která přináší revoluci ve výuce cizích jazyků."
             },
             {
-                "id": "price",
-                "title": "THE MOST COMPETITIVE PRICES",
-                "description": "By taking a close look at our lesson plans, you will see that we are the most affordable."
+                "id": "cena",
+                "title": "NEJKONKURENCESCHOPNĚJŠÍ CENY",
+                "description": "Když se pozorně podíváte na naše plány výuky tak zjistíte, že jsme cenově nejvýhodnější."
             },
             {
-                "id": "topic",
-                "title": "CHOOSE THE TOPIC OF CONVERSATION",
-                "description": "So that it will be more enjoyable. You decide what you want to discuss and improve your vocabulary."
+                "id": "téma",
+                "title": "ZVOLTE TÉMA ROZHOVORU",
+                "description": "Aby to bylo zábavnější, tak se sami rozhodujete, o čem chcete diskutovat a zlepšujete svou slovní zásobu."
             }
         ]
     },
     "aimed": {
-        "title": "Learn professional English online on Skype: the Speakingathome method",
-        "description": "The courses offered by Speakingathome are personalized and are aimed at different types of students (online English courses for professional interviews, online conversation courses for students, Skype English course for the preparation of FIRST, ADVANCED, IELTS exams, TOEFL, ...). Our courses pursue different objectives and are tailor-made.",
+        "title": "Učte se profesionální angličtinu online přes Skype: metoda Speakingathome",
+        "description": "Kurzy, které Speakingathome nabízí, jsou personalizované a zaměřené na různé typy studentů (online kurzy angličtiny pro profesní pohovory, online konverzační kurzy pro studenty, Skype kurzy angličtiny pro přípravu na zkoušky FIRST, ADVANCED, IELTS, TOEFL, ...). Naše kurzy sledují různé cíle a jsou šité přímo na míru.",
         "values": [
             {
-                "title": "ENGLISH FOR STUDENTS",
-                "description": "Speakingathome is the perfect complement to the knowledge acquired in schools. Once you know grammar, conversation with a native-speaker will effectively improve your pronunciation and vocabulary."
+                "title": "ANGLIČTINA PRO STUDENTY",
+                "description": "Speakingathome je dokonalým doplňkem znalostí získaných ve školách. Jakmile se naučíte gramatiku, konverzace s rodilým mluvčím účinně zlepší vaši výslovnost a slovní zásobu."
             },
             {
-                "title": "ENGLISH FOR INTERVIEWS",
-                "description": "Today, speaking English is a prerequisite in the majority of job vacancies. Don't miss out on these opportunities by not being prepared. Speakingathome only has advantages."
+                "title": "ANGLIČTINA NA POHOVORYS",
+                "description": "V dnešní době je znalost angličtiny podmínkou u většiny volných pracovních míst. Nepropásněte tyto příležitosti tím, že nejste připraveni. Speakingathome má pouze výhody."
             },
             {
-                "title": "ENGLISH FOR BUSINESS",
-                "description": "Our teachers can provide comprehensive language in specific subjects of any discipline. We adapt to your necessities, improving your general vocabulary with additional accepted customary expressions of the business world."
+                "title": "ANGLIČTINA PRO OBCHOD",
+                "description": "Naši učitelé mohou poskytnout ucelenou jazykovou výuku v konkrétních předmětech jakéhokoli oboru. Přizpůsobíme se vašim potřebám a rozšíříme Vaši obecnou slovní zásobu o další běžné výrazy z obchodního světa."
             },
             {
-                "title": "FIRST, IELTS, TOEFL EXAM PREPARATION",
-                "description": "Speakingathome will become the perfect complement to your preparation before any oral examination. Face official exams with the assurance and confidence you need. With our method, you will succeed!"
+                "title": "FIRST, IELTS, TOEFL PŘÍPRAVA NA ZKOUŠKU",
+                "description": "Speakingathome se stane dokonalým doplňkem vaší přípravy před ústní zkouškou. Postavte se oficiálním zkouškám s jistotou a sebevědomím, které potřebujete. S naší metodou uspějete!"
             }
         ]
     },
     "opinions": {
-        "title": "WE WANT TO HEAR FROM YOU",
-        "description": "If you still have doubts about the effectiveness of our online English courses via Skype and our method, please take a look at what our students say about us."
+        "title": "CHCEME VÁS SLYŠET",
+        "description": "Pokud stále pochybujete o účinnosti našich online kurzů angličtiny přes Skype a naší metodou, tak se prosím podívejte, co o nás říkají naši studenti."
     },
     "english-packs": {
-        "description": "When you study with Speakingathome, your level of English doesn't matter, nor does your level of education. Our teachers adapt their teaching to your profile, with the objective of helping you improve in each lesson and reinforcing what most interests you.",
-        "title-30": "ENGLISH COURSES IN 30-MINUTE LESSONS",
-        "title-60": "ENGLISH COURSES IN 1-HOUR LESSONS",
-        "lessons": "LESSONS",
-        "duration": "DURATION",
-        "price-per-lesson": "PRICE PER LESSON",
-        "total-price": "TOTAL PRICE",
-        "savings": "SAVINGS",
+        "description": "Při studiu se Speakingathome nezáleží na Vaší úrovni angličtiny, ani na úrovni Vašeho vzdělání. Naši učitelé přizpůsobují výuku vašemu osobnímu profilu s cílem pomoci Vám zlepšit se v každé lekci a posilovat to, co Vás nejvíce zajímá",
+        "title-30": "KURZY ANGLIČTINY V 30MINUTOVÝCH LEKCÍCH",
+        "title-60": "KURZY ANGLIČTINY V 1HODINOVÝCH LEKCÍCH",
+        "lessons": "LEKCE",
+        "duration": "DOBA TRVÁNÍ",
+        "price-per-lesson": "CENA ZA LEKCI",
+        "total-price": "CENA CELKEM",
+        "savings": "ÚSPORA",
         "minutes": "min.",
-        "hour": "hour",
-        "buy": "Buy",
-        "offers": "Offers"
+        "hour": "hodina",
+        "buy": "Koupit",
+        "offers": "Nabídky"
     },
     "teachers-component": {
-        "title": "OUR TRAINING TEAM",
-        "description": "Next, we present to you the educational team that can help you to improve your English online through Speakingathome. You can obtain credit in our school and choose the teacher who best suits your needs. If you want to change the teacher for another lesson, with Speakingathome, it is not a problem. You have complete freedom to make any choice that will fulfil your requirements.",
-        "listen": "Listen to me"
+        "title": "NÁŠ ŠKOLICÍ TÝM",
+        "description": "Dále Vám představujeme vzdělávací tým, který Vám může pomoci zlepšit Vaši angličtinu online prostřednictvím Speakingathome. V naší škole můžete získat zápočet a vybrat si učitele, který nejlépe vyhovuje Vašim potřebám. Pokud chcete změnit učitele na jinou lekci, se Speakingathome to není problém. Máte naprostou svobodu volby, která bude vyhovovat Vašim požadavkům.",
+        "listen": "Poslechněte si mě"
     },
     "checkout_process": {
-        "title": "Checkout process",
-        "sign_in": "Register or login",
-        "confirm": "Confirm Course",
-        "pay": "Pay Course",
-        "title_free_trial": "Sign up process",
-        "book": "Book your lesson"
+        "title": "Proces pokladny",
+        "sign_in": "Zaregistrujte se nebo se přihlaste",
+        "confirm": "Potvrzení kurzu",
+        "pay": "Platba za kurz",
+        "title_free_trial": "Proces registrace",
+        "book": "Rezervujte si lekci"
     },
     "error": {
-        "nullable": "The field is required",
-        "blank": "The field is required",
+        "nullable": "Toto pole je povinné",
+        "blank": "Toto pole je povinné",
         "size": {
-            "toosmall": "The field does not have the minimum size"
+            "toosmall": "Pole nemá požadovanou minimální velikost"
         },
         "email": {
-            "invalid": "The email address must be valid",
-            "unique": "The email address is already registered",
-            "not-found": "The email is not registered"
+            "invalid": "E-mailová adresa musí být platná",
+            "unique": "E-mailová adresa je již zaregistrována",
+            "not-found": "E-mail není registrován"
         },
         "password": {
-            "repeat-not-match": "The entered passwords do not match"
+            "repeat-not-match": "Zadaná hesla nesouhlasí"
         },
         "skypeAccount": {
-            "unique": "The skype id is already used"
+            "unique": "ID pro skype je již použito"
         },
         "telephone": {
-            "unique": "The phone number is already used"
+            "unique": "Telefonní číslo je již použito"
         },
         "token": {
-            "expired": "true"
+            "expired": "pravda"
         },
-        "not-valid-phone": "The phone number is not valid",
-        "recaptcha-not-valid-h1": "Not sure that you are human.",
-        "recaptcha-not-valid-message": "There was a problem with the recaptcha validation. Please contact us in contact@speakingathome.com"
+        "not-valid-phone": "Telefonní číslo je neplatné",
+        "recaptcha-not-valid-h1": "Nejsme si jisti, zda jste člověk.",
+        "recaptcha-not-valid-message": "Vyskytl se problém s ověřením recaptcha. Kontaktujte nás prosím na adrese contact@speakingathome.com"
     },
     "chat": {
         "key": "5a684fd14b401e45400c5956/1c4jt4763"
     },
     "cookies": {
-        "description": "Our website uses Cookies. When you navigate through our website, you are accepting the use that we make of these Cookies.",
-        "accept": "Got it!",
-        "more_info": "More info"
+        "description": "Naše webové stránky používají soubory cookie. Při procházení našich webových stránek souhlasíte s používáním těchto souborů Cookies.",
+        "accept": "Rozumím!",
+        "more_info": "Více informací"
     },
     "countries": {
-        "GB": "United Kingdom",
-        "NZ": "New Zeland",
-        "US": "United States",
-        "ZA": "South Africa",
-        "AU": "Australia",
-        "CA": "Canada",
-        "IE": "Ireland"
+        "GB": "Velká Británie",
+        "NZ": "Nový Zéland",
+        "US": "Spojené státy americké",
+        "ZA": "Jihoafrická republika",
+        "AU": "Austrálie",
+        "CA": "Kanada",
+        "IE": "Irsko"
     }
 }
