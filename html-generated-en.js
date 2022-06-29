@@ -57,24 +57,24 @@ export default {
                         "Používáním stránek a/nebo služeb uživatel zajišťuje a prohlašuje, že je dostatečně způsobilý k právním úkonům v souladu s právními předpisy místa bydliště nebo státní příslušnosti uživatele.",
                         {
                             "type": "subsection",
-                            "title": "Use of Websites by Users",
+                            "title": "Používání webových stránek uživateli",
                             "content": [
                                 {
                                     "type": "orderedList",
                                     "texts": [
-                                        "The User - who will acquire such status following the procedure described in paragraph 2.2 of the present terms - can subscribe by payment of the <a href=\"english_conversation_lesson_plans_by_skype.html\" class=\"text-red\">rates</a>, the services offered by SAH in the terms as detailed later in this agreement.",
-                                        "The User is solely responsible for the confidentiality of the username and the corresponding password. So the User will be fully responsible for any use that is made of the service provided by SAH through access with said User's username and password.",
-                                        "SAH may restrict or prevent access to services without prior notice if:"
+                                        "Uživatel - který získá tento status postupem popsaným v odstavci 2.2 těchto podmínek - si může zaplacením <a href=\"english_conversation_lesson_plans_by_skype.html\" class=\"text-red\">ceny</a> předplatit služby nabízené společností SAH za podmínek uvedených dále v této smlouvě.",
+                                        "Za důvěrnost uživatelského jména a příslušného hesla odpovídá výhradně samotný uživatel. Uživatel tedy nese plnou odpovědnost za jakékoli použití služby poskytované společností SAH prostřednictvím přístupu s uživatelským jménem a heslem uvedeného uživatele.",
+                                        "Společnost SAH může omezit nebo znemožnit přístup ke službám bez předchozího upozornění, a to pokud:"
                                     ]
                                 },
                                 {
                                     "type": "unorderedList",
                                     "texts": [
-                                        "The user seriously violates any of these terms of Use or the rights of intellectual or industrial property of SAH.",
-                                        "The user uses the service for illegal or criminal activity.",
-                                        "There is the suspicion of unauthorized use of a user name or password.",
-                                        "There is a default or chargeback of a subscription.",
-                                        "There is a fraudulent or abusive use in the acquisition of the trial class."
+                                        "Uživatel závažným způsobem poruší některou z těchto podmínek používání nebo práva duševního či průmyslového vlastnictví společnosti SAH.",
+                                        "Uživatel využívá službu k nezákonné nebo trestné činnosti.",
+                                        "Existuje podezření na neoprávněné použití uživatelského jména nebo hesla.",
+                                        "Dochází k neplnění nebo zpětnému účtování předplatného.",
+                                        "Při získávání zkušební lekce dochází k podvodnému nebo zneužívajícímu použití."
                                     ]
                                 }
                             ]
@@ -82,21 +82,21 @@ export default {
                     ]
                 },
                 {
-                    "title": "Use of the website by Users: Conditions, rates, payment terms and penalties.",
+                    "title": "Používání webových stránek uživateli: Podmínky, sazby, platební podmínky a sankce.",
                     "content": [
-                        "All services offered by SAH will be made Online via Skype. SAH does not offer, in any form, on-site services.",
+                        "Veškeré služby nabízené společností SAH budou poskytovány online přes Skype. SAH nenabízí v žádné formě služby na místě.",
                         {
                             "type": "subsection",
-                            "title": "Conditions of service",
+                            "title": "Podmínky služby",
                             "content": [
-                                "The service will be provided by native teachers of the language requested by the User among those offered by SAH.",
-                                "The User acquires credits that may be redeemed for services via Skype according to time and the credit determined for each course.",
-                                "Such credits will have a validity of one year. Therefore, if after this period, the credits have not been used, the User accepts that the right to use them has been lost and expressly consents that he/she renounces any claim for any restitution of amounts corresponding to appropriations not used within that period."
+                                "Služba bude poskytována rodilými mluvčími jazyka, kterého si uživatel vyžádá z nabídky SAH.",
+                                "Uživatel získává kredity, které může vyměnit za služby prostřednictvím služby Skype podle času a kreditu stanoveného pro každý kurz.",
+                                "Platnost těchto kreditů je jeden rok. Pokud tedy po uplynutí této doby nebyly kredity využity, uživatel bere na vědomí, že právo na jejich využití zaniklo, a výslovně souhlasí s tím, že se vzdává jakýchkoli nároků na vrácení částek odpovídajících prostředkům nevyčerpaným v této lhůtě."
                             ]
                         },
                         {
                             "type": "subsection",
-                            "title": "Service Provision",
+                            "title": "Poskytování služeb",
                             "content": [
                                 "Once a subscription is paid, the User acquires credits that may be used in the timetable that suits the User based on the availability of teachers at the time requested by the User.",
                                 "Upon Request of a lesson by the User for a time and date, SAH will show the User available teachers and their hours of availability from which the user can choose one to schedule a lesson.",
