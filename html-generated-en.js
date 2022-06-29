@@ -1,60 +1,60 @@
 export default {
     "terms_and_conditions": {
         "head": {
-            "title": "Term and Conditions - Speakingathome",
-            "description": "Terms and conditions Speakingathome",
+            "title": "Obchodní podmínky - Speakingathome",
+            "description": "Obchodní podmínky Speakingathome",
             "keywords": ""
         },
         "body": {
-            "title": "TERMS AND CONDITIONS, USE AND LIABILITY CONTRACT",
+            "title": "PODMÍNKY, SMLOUVA O POUŽÍVÁNÍ A ODPOVĚDNOSTI",
             "introduction": {
-                "title": "Terms of Service",
+                "title": "Podmínky poskytování služeb",
                 "texts": [
-                    "These terms and conditions govern the use of the site and the conditions of use of the services provided through it. By using the Website, whether as a visitor, registered user or as a subscriber, you (hereinafter User) agree to these terms of use in their entirety and without reservation.",
-                    "The operator and Manager of the site, <a href=\"https://www.speakingathome.com/\">https://www.speakingathome.com</a>, and service provider is Speakingathome, Ltd (hereinafter, SAH), whose full details are contained in the Legal notice of this Website."
+                    "Tyto podmínky upravují používání těchto stránek a podmínky používání služeb poskytovaných jejich prostřednictvím. Používáním webových stránek, ať už jako návštěvník, registrovaný uživatel nebo předplatitel, souhlasíte (dále jen uživatel) s těmito podmínkami používání v plném rozsahu a bez jakýchkoli výhrad.",
+                    "Provozovatelem a správcem stránek, <a href=\"https://www.speakingathome.com/\">https://www.speakingathome.com</a>, a poskytovatelem služeb je společnost Speakingathome, s.r.o. (dále jen SAH), jejíž veškeré údaje jsou uvedeny v právním prohlášení těchto webových stránek."
                 ]
             },
             "preamble": {
-                "title": "Preamble",
-                "text": "SAH offers a platform that connects language teachers with registered users for the provision of language training services. It includes conversation lessons and practices."
+                "title": "Předmluva",
+                "text": "SAH nabízí platformu, která spojuje učitele jazyků s registrovanými uživateli a poskytuje jim služby jazykového vzdělávání. Její součástí jsou i konverzační lekce a cvičení."
             },
             "sections": [
                 {
-                    "title": "The parties of the contract",
+                    "title": "Smluvní strany smlouvy",
                     "content": [
-                        "The following terms and conditions of use (\"terms\") of SAH, regulate the contractual relationship between SAH and registered individual users.",
-                        "By using the Site and/or the Services, the User ensures and declares that said User has sufficient capacity to be bound in accordance with the legislation of the User's place of residence or nationality.",
-                        "In the event of minor users of the service, there will be his/her legal representative who ensures that he/she has such power to be bound by these terms and conditions on the minor user's behalf and who assumes the obligations arising from this agreement.",
-                        "Rights and/or credits contracted by the User shall not be transferable to a third party, except for declaration of express conformity of transmission by SAH."
+                        "Následující podmínky používání (dále jen "podmínky") SAH upravují smluvní vztah mezi SAH a registrovanými uživateli.",
+                        "Používáním stránek a/nebo služeb uživatel zaručuje a prohlašuje, že je dostatečně způsobilý k právním úkonům v souladu s právními předpisy místa bydliště nebo státního občanství uživatele.",
+                        "V případě nezletilých uživatelů služby bude existovat jejich zákonný zástupce, který zajistí, že má takové oprávnění být vázán těmito podmínkami jménem nezletilého uživatele a který přebírá povinnosti plynoucí z této smlouvy.",
+                        "Práva a/nebo kredity sjednané uživatelem nelze převést na třetí osobu, s výjimkou výslovného prohlášení o shodě přenosu ze strany SAH."
                     ]
                 },
                 {
-                    "title": "Registration and formalisation of the contract",
+                    "title": "Registrace a uzavření smlouvy",
                     "content": [
                         {
                             "type": "subsection",
-                            "title": "The use of SAH has as a precondition registration by filling in a registration form and acceptance of the conditions of use and privacy policy.",
+                            "title": "Podmínkou používání SAH je registrace prostřednictvím vyplnění registračního formuláře a souhlas s podmínkami používání a zásadami ochrany osobních údajů",
                             "content": [
-                                "The contract between the party concerned and SAH is formalised only by the action of Registration on the Website and upon acceptance expressed in these Terms."
+                                "Smlouva mezi dotyčnou stranou a společností SAH je uzavřena pouze na základě registrace na webových stránkách a na základě souhlasu vyjádřeného v těchto podmínkách."
                             ]
                         },
                         {
                             "type": "subsection",
-                            "title": "Procedure for the formalisation of the Contract of use",
+                            "title": "Postup pro uzavření smlouvy o užívání",
                             "content": [
-                                "The formalisation of the contract of use with SAH will be held as follows.",
-                                "The User of the Academy service requests the formalization of a contract for the use of the website by completing, confirming and sending the registration form and after having accepted the Privacy Policy and the present Terms. The system will collect this record and the IP of the User and will send a confirmation generated automatically by the system to the indicated email address.",
-                                "By sending the link, a contract will be formalised between SAH and the user for the use of services themselves."
+                                "Uzavření smlouvy o užívání se společností SAH proběhne následovně.",
+                                "Uživatel služby Akademie žádá o uzavření smlouvy o používání webových stránek vyplněním, potvrzením a odesláním registračního formuláře a po přijetí zásad ochrany osobních údajů a těchto podmínek. Systém shromáždí tento záznam a adresu IP uživatele a zašle potvrzení automaticky vygenerované systémem na uvedenou e-mailovou adresu.",
+                                "Odesláním odkazu dojde k uzavření smlouvy mezi společností SAH a uživatelem o využívání služeb."
                             ]
                         }
                     ]
                 },
                 {
-                    "title": "Registration",
+                    "title": "Registrace",
                     "content": [
-                        "For the use of the services, registration of data is required by filling in all the data requested on the <a href=\"register\" class=\"text-red\">Registration</a> Page, creating a user name and a password.",
-                        "Only a person of legal age and full capacity to be bound to the terms required to do so by legislation is applicable to the case. Underage students will need to send an e-mail attaching authorization from their legal tutors.",
-                        "By using the Site and/or the Services, the User ensures and declares that said User has sufficient capacity to be bound in accordance with the legislation of the User's place of residence or nationality.",
+                        "Pro využívání služeb je nutná registrace údajů vyplněním všech požadovaných údajů na stránce <a href=\"register\" class=\"text-red\">Registrace</a>, vytvořením uživatelského jména a hesla.",
+                        "Na daný případ se vztahuje pouze osoba plnoletá a plně způsobilá k právním úkonům, které jsou vyžadovány právními předpisy. Nezletilí studenti budou muset zaslat e-mail s přiloženým zmocněním od svých zákonných zástupců.",
+                        "Používáním stránek a/nebo služeb uživatel zajišťuje a prohlašuje, že je dostatečně způsobilý k právním úkonům v souladu s právními předpisy místa bydliště nebo státní příslušnosti uživatele.",
                         {
                             "type": "subsection",
                             "title": "Use of Websites by Users",
