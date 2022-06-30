@@ -169,7 +169,7 @@ export default {
     "contact-teacher-dialog": {
         "title": "Kontakt s {jméno}",
         "error": "Při odesílání zprávy došlo k chybě, zkuste to prosím znovu.",
-        "description": "Řekněte {name}, co si přejete o své lekci dne {date}.",
+        "description": "Řekněte {name}, co si přejete vědět o své lekci dne {date}.",
         "success": "Vaše zpráva byla odeslána {name}",
         "send": "Odeslat",
         "ok": "Ok"
