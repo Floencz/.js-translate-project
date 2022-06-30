@@ -567,7 +567,7 @@ export default {
             {
                 "id": "invoices",
                 "title": "POSKYTUJEME FAKTURY",
-                "description": "Pokud potřebujete předložit výdaje na školení pro daňové odpočty, my vám to usnadníme."
+                "description": "Pokud potřebujete předložit výdaje na školení pro daňové odpočty, my Vám to usnadníme."
             },
             {
                 "id": "native",
@@ -592,7 +592,7 @@ export default {
             {
                 "id": "length",
                 "title": "30 NEBO 60MINUTOVÉ LEKCE",
-                "description": "Máte dvě možnosti trvání. Vyberte si tu, která nejlépe vyhovuje vašim potřebám."
+                "description": "Máte dvě možnosti trvání. Vyberte si tu, která nejlépe vyhovuje Vašim potřebám."
             },
             {
                 "id": "skype",
