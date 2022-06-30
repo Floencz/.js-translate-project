@@ -98,225 +98,225 @@ export default {
                             "type": "subsection",
                             "title": "Poskytování služeb",
                             "content": [
-                                "Once a subscription is paid, the User acquires credits that may be used in the timetable that suits the User based on the availability of teachers at the time requested by the User.",
-                                "Upon Request of a lesson by the User for a time and date, SAH will show the User available teachers and their hours of availability from which the user can choose one to schedule a lesson.",
-                                "Lessons will be reserved by the user through the portal, given required minimum prior notice set specifically for each of the teachers at the time of reservation.",
-                                "The User expressly acknowledges the impossibility of SAH to monitor lessons, both for technical reasons and for reasons derived from the proper policy of strict compliance with the legislation on Data Protection."
+                                "Po zaplacení předplatného získá uživatel kredity, které může využít v časovém rozvrhu, který mu vyhovuje, a to na základě dostupnosti učitelů v době, kterou uživatel požaduje.",
+                                "Po vyžádání lekce uživatelem na určitý čas a datum SAH zobrazí uživateli dostupné učitele a jejich hodiny dostupnosti, z nichž si uživatel může vybrat učitele a naplánovat si lekci.",
+                                "Lekce si uživatel rezervuje prostřednictvím portálu, a to s minimálním předstihem stanoveným pro každého z učitelů v době rezervace.",
+                                "Uživatel výslovně bere na vědomí, že společnost SAH nemůže monitorovat lekce, a to jak z technických důvodů, tak z důvodů vyplývajících z příslušné politiky přísného dodržování právních předpisů o ochraně údajů."
                             ]
                         },
                         {
                             "type": "subsection",
-                            "title": "Cancellation of the appointment in case of incidents",
+                            "title": "Zrušení schůzky v případě mimořádných událostí",
                             "content": [
-                                "Both parties, SAH and the user may cancel the appointment without penalty with a minimum notice of 12 hours beforehand.",
-                                "The appointment cancellation method:",
+                                "Obě strany, SAH i uživatel, mohou schůzku zrušit bez sankcí s minimálním časovým předstihem 12 hodin.",
+                                "Způsob zrušení schůzky:",
                                 {
                                     "type": "unorderedList",
                                     "texts": [
-                                        "For the User, through the use of the portal within the personal account that has been assigned.",
-                                        "For SAH, through the sending of an email to the User's email provided at the time of registration. Or by sending a text message to the Skype account provided by the User at the time of registration."
+                                        "Pro uživatele prostřednictvím portálu v rámci jeho osobního účtu, který mu byl přidělen.",
+                                        "V případě společnosti SAH prostřednictvím zaslání e-mailu na e-mailovou adresu uživatele uvedenou při registraci nebo zasláním textové zprávy na účet Skype, který Uživatel zadal při registraci."
                                     ]
                                 },
-                                "The User agrees to be connected with the skype account provided at registration, on the date and time of the reserved lesson. Where the student is not timely, the Teacher is not obligated to extend the lesson in which the student was absent.",
-                                "The lesson shall be understood to have been given and service provided if after 10 minutes for 30-minute classes or 15 minutes for one-hour classes from the agreed time.",
-                                "If upon arrival of the lesson, the teacher is not available or connected, the User is obliged to send an email to contact@speakingathome.com, notifying SAH of the incidence. SAH, once confirming the incidence, will proceed to refund the User of the credits corresponding to the lesson reserved and not provided.",
-                                "The suspension of a lesson under the terms of the previous paragraph does not suspend the period of validity of one year set for the credits.",
-                                "Cancellation by major force or incident:",
+                                "Uživatel souhlasí s tím, že se v den a hodinu rezervované lekce připojí ke svému účtu skype, který uvedl při registraci. V případě, že se student nedostaví včas, není Učitel povinen prodloužit lekci, na které student z důvodu nepřítomnosti nebyl přítomen.",
+                                "Lekce se považuje za poskytnutou a služba za vykonanou, pokud uplyne 10 minut u 30minutových lekcí nebo 15 minut u hodinových lekcí od dohodnutého času.",
+                                "Pokud po příchodu na lekci není učitel k dispozici nebo není připojen, je uživatel povinen zaslat e-mail na adresu contact@speakingathome.com a oznámit tuto skutečnost společnosti SAH. Po potvrzení této skutečnosti SAH vrátí uživateli kredity odpovídající rezervované a neuskutečněné lekci.",
+                                "Pozastavení výuky podle předchozího odstavce nepozastavuje platnost kreditů v délce jednoho roku.",
+                                "Zrušení v důsledku vyšší moci nebo incidentu:",
                                 {
                                     "type": "unorderedList",
                                     "texts": [
-                                        "In a case in which the User is unable to attend a lesson by reason of major force or incident of an exceptional nature, the User will notify SAH promptly via email with a maximum period of 24 hours with the reasons and circumstances that prevented the User's attendance and to provide as much evidence as possible."
+                                        "V případě, že se uživatel nemůže zúčastnit lekce z důvodu vyšší moci nebo události výjimečného charakteru, oznámí to SAH neprodleně e-mailem s maximální lhůtou 24 hodin a uvede důvody a okolnosti, které mu zabránily v účasti, a poskytne co nejvíce důkazních materiálů."
                                     ]
                                 },
-                                "In case of a circumstance by SAH, after consultation with the TEACHER, credits for the lesson not given will be returned. This is without any implication of the suspension of the period of validity of paragraph 4.1 of the present terms and conditions.",
+                                "V případě, že SAH po konzultaci s UČITELEM zjistí nějaké okolnosti, budou kredity za neuskutečněnou lekci vráceny. To však neznamená přerušení doby platnosti dle odstavce 4.1 těchto podmínek.",
                                 {
                                     "type": "unorderedList",
                                     "texts": [
-                                        "In case of default by the teacher by reason of major force or incident, SAH will impart to the User the reason provided by the teacher for the failure to appear, and in any case will return to the User credit for the lesson not given."
+                                        "V případě, že se učitel nedostaví k výuce z důvodu vyšší moci nebo události, sdělí SAH uživateli důvod, který učitel uvedl, a v každém případě vrátí uživateli kredit za neuskutečněnou lekci."
                                     ]
                                 },
-                                "One month after the recording without any complaint or claim on a class, the TEACHER is obliged by contract to delete the recordings under his sole responsibility. Without from that moment its recovery is possible."
+                                "Po uplynutí jednoho měsíce od pořízení nahrávky bez jakékoli stížnosti nebo reklamace na lekci je UČITEL povinen na základě smlouvy nahrávky smazat, a to na vlastní odpovědnost. Aniž by od tohoto okamžiku bylo možné jejich obnovení."
                             ]
                         },
                         {
                             "type": "subsection",
-                            "title": "Fees",
+                            "title": "Poplatky",
                             "content": [
-                                "The price payable by the User to access the services is determined according to the contracted hours and the duration of the lessons.",
-                                "The specific fee amounts will be detailed on the page of <a href=\"english_conversation_lesson_plans_by_skype.html\" class=\"text-red\">Rates</a> on the portal at the time of the acquisition of credits.",
-                                "The modification of the page Rates will not affect existing appropriations and those not consumed by the User."
+                                "Cena, kterou má uživatel zaplatit za přístup ke službám, se určuje podle sjednaných hodin a délky trvání lekcí.",
+                                "Konkrétní výše poplatků bude uvedena na stránce <a href=\"english_conversation_lesson_plans_by_skype.html\" class=\"text-red\">Sazby</a> na portálu v době získání kreditů.",
+                                "Úprava cen na stránce nebude mít vliv na stávající a uživatelem nevyužité prostředky."
                             ]
                         },
                         {
                             "type": "subsection",
-                            "title": "Subscription Modality",
+                            "title": "Způsob předplatného",
                             "content": [
-                                "In the subscription mode, this will be done for monthly renewable periods automatically at expiration with the corresponding charge in the form chosen by the User.",
-                                "Subscribed a number of classes in this modality, these must be reserved by the User within one month of contracting it. After this period has elapsed without all the contracted classes, the classes not provided in said period will be accumulated only once in the next subscription period.",
-                                "The subscription may be canceled at any time at least 5 days before the end of the subscribed period. The User may request the cancellation of the subscription, directly from his personal area on the Web without alleging any cause, without penalty and without having to give up the contracted classes and not taught in the terms set forth in the previous paragraph."
+                                "V režimu předplatného se tak děje pro měsíční obnovitelná období automaticky po vypršení platnosti s odpovídajícím poplatkem ve formě dle volby uživatele.",
+                                "V této formě si uživatel může předplatit určitý počet lekcí, které si musí rezervovat do jednoho měsíce od uzavření smlouvy. Po uplynutí tohoto období bez všech nasmlouvaných lekcí se lekce neposkytnuté v uvedeném období kumulují pouze jednou v dalším předplaceném období.",
+                                "Předplatné lze kdykoli zrušit a to nejpozději 5 dní před koncem předplaceného období. Uživatel může požádat o zrušení předplatného přímo ze své osobní zóny na webu, a to bez udání důvodu, bez sankcí a bez nutnosti vzdát se nasmlouvaných lekcí a nevyučovat za podmínek uvedených v předchozím odstavci."
                             ]
                         },
                         {
                             "type": "subsection",
-                            "title": "Payment Terms",
+                            "title": "Platební podmínky",
                             "content": [
-                                "The payment of the services offered is made prior to the scheduling of lessons and the provision of the service.",
-                                "SAH offers the following forms of payment for the use of the service.",
+                                "Platba za nabízené služby se provádí před naplánováním výuky a poskytnutím služby.",
+                                "Společnost SAH nabízí následující formy platby za využití služby.",
                                 {
                                     "type": "unorderedList",
                                     "texts": [
                                         "PayPal",
-                                        "Credit card (Visa, Mastercard, AMEX)",
-                                        "Wire transfer. (Payment will only be considered made from the moment of receipt of the transfer by SAH)"
+                                        "Kreditní karta (Visa, Mastercard, AMEX)",
+                                        "Bankovní převod. (Platba bude považována za provedenou až od okamžiku přijetí převodu společností SAH.)"
                                     ]
                                 }
                             ]
                         },
                         {
                             "type": "subsection",
-                            "title": "Contents Included by Users",
+                            "title": "Obsah obsažený uživateli",
                             "content": [
-                                "Text, music, images, drawings or graphic, artistic and intellectual expression entered by users will be your sole responsibility.",
-                                "Given the nature of the service, SAH is unable to control the content provided by Users, and thus the User acknowledges this fact by agreeing to these Terms. The User expressly accepts any liability of the type that is derived from the elements introduced in the format.",
-                                "User expressly acknowledges that SAH only provides an instrument in which the elements introduced by the User will be its absolute and full responsibility and that SAH is unable to control such elements...",
-                                "To this end, the User agrees to refrain from introducing into the tool the following contents:",
+                                "Za texty, hudbu, obrázky, kresby nebo grafické, umělecké a duševní projevy vložené uživateli odpovídáte výhradně vy.",
+                                "Vzhledem k povaze služby není SAH schopna kontrolovat obsah poskytovaný uživateli, a proto uživatel souhlasem s těmito podmínkami a bere tuto skutečnost na vědomí. Uživatel výslovně přijímá jakoukoli odpovědnost toho typu, která vyplývá z položek uvedených v této podobě.",
+                                "Uživatel výslovně bere na vědomí, že SAH poskytuje pouze nástroj, do kterého uživatel vkládá prvky, za které nese absolutní a plnou odpovědnost, a že SAH není schopna tyto prvky kontrolovat...",
+                                "Za tímto účelem se uživatel zavazuje, že do nástroje nebude vkládat následující obsah:",
                                 {
                                     "type": "unorderedList",
                                     "texts": [
-                                        "Illegal content",
-                                        "Content regarded as pornographic, vulgar or obscene, harassing or that could be considered in any way as offensive even though they were not violating the law.",
-                                        "Irrelevant and unclear descriptions",
-                                        "Extremist content, racist or xenophobic or content posted by banned groups",
-                                        "Content interfering with the rights of third parties (in particular, a person's rights, intellectual property rights, trademark rights, patent rights or any other rights of third parties)",
-                                        "Content that could be considered commercial advertising or spam",
-                                        "Content that could damage the public image, reputation or brand of SAH, as well as its partners, workers, other users of the service or third parties."
+                                        "Nezákonný obsah",
+                                        "Obsah považovaný za pornografický, vulgární nebo obscénní, obtěžující nebo takový, který by mohl být jakýmkoli způsobem považován za urážlivý, i když neporušuje zákon.",
+                                        "Irelevantní a nejasné popisy",
+                                        "Extremistický, rasistický nebo xenofobní obsah nebo obsah zveřejněný zakázanými skupinami.",
+                                        "Obsah zasahující do práv třetích stran (zejména do práv osob, práv duševního vlastnictví, práv k ochranným známkám, patentových práv nebo jiných práv třetích stran).",
+                                        "Obsah, který by mohl být považován za komerční reklamu nebo spam",
+                                        "Obsah, který by mohl poškodit veřejný obraz, pověst nebo značku společnosti SAH, jakož i jejích partnerů, pracovníků, ostatních uživatelů této služby nebo třetích stran."
                                     ]
                                 },
-                                "SAH reserves the right to suspend or to unsubscribe the user that uses or introduces any of the mentioned contents. Any remaining portion of the subscription will not be refundable in this case.",
-                                "In any case, it it will be understood that there is a reasonable suspicion under the terms of the preceding paragraphs about which SAH was warned by third parties, holders or against the rights, of the existence of any of the acts mentioned in the preceding paragraphs. This excludes cases in which this warning could be deduced without a doubt to lack foundation.",
-                                "Discharge and exclusion from the service is reversible, once it is proven that suspicion lacked foundation. In no case does the User have rights to indemnification. By agreeing to these Terms, the User expressly renounces any right to claim any type of indemnification for this case."
+                                "SAH si vyhrazuje právo pozastavit nebo odhlásit uživatele, který používá nebo vkládá jakýkoli z uvedených obsahů. Zbývající část předplatného se v tomto případě nevrací.",
+                                "V případě, že existuje důvodné podezření podle předchozích odstavců, na které byla společnost SAH upozorněna třetími stranami, držiteli práv nebo v rozporu s právy, na existenci některého z aktů uvedených v předchozích odstavcích. Z toho jsou vyloučeny případy, kdy by z tohoto upozornění bylo možné bez pochybností usuzovat na jeho neopodstatněnost.",
+                                "Ukončení služby a vyloučení ze služby je možné zvrátit, jakmile se prokáže, že podezření nebylo důvodné. Uživatel nemá v žádném případě nárok na odškodnění. Souhlasem s těmito podmínkami se uživatel výslovně vzdává jakéhokoli práva na uplatnění jakéhokoli typu odškodnění pro tento případ."
                             ]
                         },
                         {
                             "type": "subsection",
-                            "title": "Video recording of lessons",
+                            "title": "Videonahrávky lekcí",
                             "content": [
-                                "SAH, among their complementary services, facilitates the possibility that lessons can be recorded by the TEACHER in order to subsequently send such recording to the User.",
-                                "Because SAH does not take part in the act of recording, it cannot guarantee completion, which is conditioned on the availability and functioning of the technical means or connection necessary for the User and TEACHER of said recording. Means to which SAH has no access.",
-                                "The User recognises that the recording of lessons will be exclusively upon express request by the User at the time of the request for the recording and the terms set out in the SAH privacy policy. The recording will be done and will be sent to you directly by the TEACHER. And it will only be used for provision to the User, as a means of analysis of the quality of the service provided or case of conflict among any of the following: User, Teacher, SAH.",
-                                "The User expressly acknowledges that SAH does not store the recordings on their servers or have direct access to them. And that any claim or exercise of rights to said recording, its content or use outside these terms and conditions should be addressed to the teacher on whose computer the file of the recording is stored.",
-                                "For delivery of the recording, the User must put at the disposal of the teacher, who will be in possession of the recording, a mechanism of cloud storage arranged for that purpose or by maintaining connection with the teacher for a duration sufficient for the transmission of the file via Skype on the time and date determined by the teacher.",
-                                "Recording of the lesson will not involve any additional charge in credits purchased by the User."
+                                "SAH mezi svými doplňkovými službami umožňuje, aby si UČITEL výuku nahrával a následně tuto nahrávku odeslal uživateli.",
+                                "Vzhledem k tomu, že se SAH neúčastní nahrávání, nemůže zaručit jeho dokončení, které je podmíněno dostupností a funkčností technických prostředků nebo spojení nezbytného pro uživatele a UČITELE uvedeného nahrávání. Přístup k prostředkům, k nimž SAH nemá přístup.",
+                                "Uživatel bere na vědomí, že nahrávání výuky bude probíhat výhradně na základě výslovné žádosti uživatele v okamžiku žádosti o nahrávání a za podmínek stanovených v zásadách ochrany osobních údajů SAH. Nahrávku pořídí a zašle přímo UČITEL. A bude použita pouze pro poskytnutí Uživateli, jako prostředek analýzy kvality poskytované služby nebo v případě konfliktu mezi některým z těchto subjektů: Uživatelem, Učitelem, SAH.",
+                                "Uživatel výslovně bere na vědomí, že SAH neukládá nahrávky na svých serverech ani k nim nemá přímý přístup a že jakýkoli nárok nebo uplatnění práv k uvedené nahrávce, jejímu obsahu nebo použití mimo tyto podmínky je třeba adresovat učiteli, na jehož počítači je soubor s nahrávkou uložen.",
+                                "Pro doručení nahrávky musí uživatel dát učiteli, který bude mít nahrávku k dispozici, k dispozici mechanismus cloudového úložiště zřízeného pro tento účel nebo udržovat spojení s učitelem po dobu dostatečnou pro přenos souboru prostřednictvím Skypu v čase a termínu stanoveném učitelem.",
+                                "Nahrávání lekce není spojeno s žádnými dalšími poplatky za kredity zakoupenými uživatelem."
                             ]
                         },
                         {
                             "type": "subsection",
-                            "title": "Free trial lesson offer",
+                            "title": "Nabídka zkušební lekce zdarma",
                             "content": [
-                                "SAH, in its intention to publicize its service, can offer the possibility of accessing a free trial class to new students without implying any obligation or commitment on the part of SAH beyond that one class.",
-                                "To access and enjoy this free class, the student must complete the registration steps set out in these Terms and Conditions and in the Web Privacy Policy.",
-                                "Each person can enjoy a single free trial class of the service. The non-presentation of the student or any technical problem occurred during the class does not generate the right to a new free class unless expressly stated otherwise by SAH."
+                                "Společnost SAH může v rámci svého záměru propagovat své služby a nabídnout novým studentům možnost přístupu k bezplatné zkušební lekci, aniž by to znamenalo jakýkoli závazek nebo povinnost ze strany společnosti SAH nad rámec této jedné lekce.",
+                                "Pro přístup k této bezplatné lekci a její využití musí student splnit registrační kroky uvedené v těchto Podmínkách a v Zásadách ochrany osobních údajů na webu.",
+                                "Každá osoba může využít jednu zkušební lekci zdarma. Neúčast studenta nebo jakýkoli technický problém, který se vyskytl během lekce, nezakládá nárok na novou bezplatnou lekci, pokud SAH výslovně nestanoví jinak."
                             ]
                         }
                     ]
                 },
                 {
-                    "title": "Contractual obligations of the User",
+                    "title": "Smluvní závazky uživatele",
                     "content": [
                         {
                             "type": "orderedList",
                             "texts": [
-                                "Users are obliged to protect access data to the Websites against unauthorized use by third parties. Access, especially the password, may not be disclosed, transferred or transmitted in any case. The user is responsible of any unauthorised conduct made possible by abuse or illegitimate use of login details for the associated use of SAH services due to a negligent, or wilful attitude of the User in the custody of said login details."
+                                "Uživatelé jsou povinni chránit přístupové údaje k webovým stránkám před neoprávněným použitím třetími stranami. Přístupové údaje, zejména heslo, nesmí být v žádném případě zveřejněny, přenášeny nebo poskytovány. Uživatel je odpovědný za jakékoli neoprávněné jednání způsobené zneužitím nebo neoprávněným použitím přihlašovacích údajů pro související využívání služeb SAH v důsledku nedbalého, případně úmyslného přístupu uživatele při správě uvedených přihlašovacích údajů."
                             ]
                         },
-                        "If the User is aware that his/her login details have been revealed to third parties, the User is obligated to change his/her password immediately. If this is not possible, it must be immediately reported to SAH.",
+                        "Pokud se uživatel dozví, že jeho přihlašovací údaje byly prozrazeny třetím osobám, je povinen si heslo neprodleně změnit. Pokud to není možné, musí to neprodleně nahlásit společnosti SAH.",
                         {
                             "type": "unorderedList",
                             "texts": [
-                                "During the registration process it is required of the User that an email address is provided that is always reachable. The User accepts the use of this email address for notifications in the context of its relationship with SAH",
-                                "The valid email address of the User is exclusively the last communicated to SAH. In the event that the email changes, the User is obligated to provide a new email address immediately to SAH. The user is responsible for any effect or damage caused by a possible lack of notification to the new email address.",
-                                "The user agrees not to use or forward mechanisms, software or other scripts in connection with the use of the websites that could endanger, damage, or destroy the functionality or availability of the platform. And, in particular, attachments or content that contain viruses, or that are pyramid schemes, mass emails (\"spam\"), chain mail, or that hinder the services of the websites.",
-                                "The User agrees not to modify, overwrite or delete any content created or managed by SAH or any other User or Professional.",
-                                "The registered User expressly assumes the costs to provide the necessary technical means to use the services of SAH, and in particular, the hardware, the necessary software (for example: Internet browser) and services for telecommunications and data transmission."
+                                "Při registraci je nutné, aby uživatel uvedl e-mailovou adresu, která je vždy dostupná. Uživatel souhlasí s používáním této e-mailové adresy pro zasílání notifikací v rámci svého vztahu se společností SAH.",
+                                "Platnou e-mailovou adresou uživatele je výhradně ta, která byla naposledy sdělena společnosti SAH. V případě změny e-mailu je Uživatel povinen neprodleně sdělit společnosti SAH novou e-mailovou adresu. Uživatel odpovídá za případné následky nebo škody způsobené případným neoznámením nové e-mailové adresy.",
+                                "Uživatel se zavazuje, že v souvislosti s používáním webových stránek nebude používat nebo předávat mechanismy, software nebo jiné skripty, které by mohly ohrozit, poškodit nebo zničit funkčnost nebo dostupnost platformy. Zejména přílohy nebo obsah, které obsahují viry nebo které jsou pyramidovými podvody, hromadnými e-maily (tzv. "spam"), řetězovými e-maily nebo které brání službám webových stránek.",
+                                "Uživatel se zavazuje, že nebude měnit, přepisovat ani mazat obsah vytvořený nebo spravovaný společností SAH nebo jiným uživatelem či profesionálem.",
+                                "Registrovaný uživatel výslovně přebírá náklady na zajištění nezbytných technických prostředků k využívání služeb SAH, zejména hardwaru, nezbytného softwaru (např. internetového prohlížeče) a služeb pro telekomunikaci a přenos dat"
                             ]
                         },
-                        "SAH does not guarantee the compatibility of its services with the individual software or hardware of the user's computer."
+                        "Společnost SAH nezaručuje kompatibilitu svých služeb s individuálním softwarem nebo hardwarem počítače uživatele."
                     ]
                 },
                 {
-                    "title": "Intellectual property",
+                    "title": "Duševní vlastnictví",
                     "content": [
                         {
                             "type": "subsection",
-                            "title": "Ownership of SAH",
+                            "title": "vlastnictví společnosti SAH",
                             "content": [
                                 {
                                     "type": "unorderedList",
                                     "texts": [
-                                        "SAH is the owner of the rights of intellectual and industrial property of the Website, and also owns or has licensed the rights of intellectual and industrial property and image of all the content available through it.",
-                                        "In no event shall it be understood that access, browsing or use of the service by the User implies a renunciation, transmission, license or total or partial assignment of such rights by SAH.",
-                                        "The user expressly acknowledges that the use of the service covered by the contract will not generate any right of intellectual or industrial property transmission, nor does it grant this user any license on the content owned by SAH outside of rights within the limits established in paragraph 4 of these terms."
+                                        "Společnost SAH je vlastníkem práv duševního a průmyslového vlastnictví těchto webových stránek a rovněž vlastní nebo získala licenci na práva duševního a průmyslového vlastnictví a právo na obraz veškerého jejich obsahu.",
+                                        "V žádném případě nelze chápat, že přístup, prohlížení nebo používání služby uživatelem znamená zřeknutí se těchto práv, jejich předání, udělení licence nebo jejich úplné či částečné převedení ze strany společnosti SAH.",
+                                        "Uživatel výslovně bere na vědomí, že používání služby, na kterou se vztahuje smlouva, nezakládá žádné právo na převod duševního nebo průmyslového vlastnictví, ani neuděluje uživateli žádnou licenci na obsah vlastněný společností SAH mimo práv v mezích stanovených v odstavci 4 těchto obchodních podmínek."
                                     ]
                                 }
                             ]
                         },
                         {
                             "type": "subsection",
-                            "title": "Prohibition of availability",
+                            "title": "Zákaz dostupnosti",
                             "content": [
                                 {
                                     "type": "unorderedList",
                                     "texts": [
-                                        "As a result, the user is not allowed to ignore, evade or manipulate the copyright and any other data identifying the rights of SAH, as well as technical protection devices, digital fingerprints or any mechanisms of information or identification that might be contained in the content.",
-                                        "It is also forbidden to modify, copy, reuse, exploit, reproduce, communicate publicly, make second or subsequent backups, upload files, mail, transmit, use, treating or distributing in any manner all or part of the contents included in the Website outside of the use that is specific to the service provided by SAH if there is no authorization by expressed written consent of SAH.",
-                                        "Use of the service does not generate intellectual property or any industrial rights thereon by the User."
+                                        "V důsledku toho nesmí uživatel ignorovat, obcházet nebo manipulovat s autorskými právy a jakýmikoli jinými údaji identifikujícími práva společnosti SAH, jakož i s technickými ochrannými zařízeními, digitálními otisky prstů nebo jakýmikoli mechanismy informací nebo identifikace, které mohou být obsaženy v obsahu.",
+                                        "Je také zakázáno upravovat, kopírovat, znovu používat, využívat, reprodukovat, veřejně sdělovat, vytvářet druhé nebo další zálohy, nahrávat soubory, posílat, přenášet, používat, zpracovávat nebo distribuovat jakýmkoli způsobem veškerý obsah nebo jeho část obsaženou na webových stránkách mimo použití, které je specifické pro službu poskytovanou společností SAH, pokud k tomu není dáno výslovné písemné svolení společnosti SAH.",
+                                        "Používáním služby nevznikají uživateli práva duševního vlastnictví ani průmyslová práva k nim."
                                     ]
                                 }
                             ]
                         },
                         {
                             "type": "subsection",
-                            "title": "Use of the Website",
+                            "title": "Používání webových stránek",
                             "content": [
-                                "The following are expressly forbidden:",
+                                "Následující činnosti jsou výslovně zakázány:",
                                 {
                                     "type": "unorderedList",
                                     "texts": [
-                                        "The publication of any material contained on this Website in any medium, as well as their sale, rental, display, reproduction, copy or any other form of exploitation of material contained on the site for commercial purposes.",
-                                        "Editing or otherwise modifying any material on the Website;",
-                                        "Using the Site in any way that affects, or may affect their availability or accessibility.",
-                                        "Using the site or its services as a means to copy, store, to stay, transmit, send, use, publish or distribute any material which consists of, or is connected with, any type of virus or malicious code.",
-                                        "Carrying out any activity of automated and systematic data collection on or in relation to the Site without the consent from SAH that is both expressed and in writing."
+                                        "Zveřejnění jakéhokoli materiálu obsaženého na těchto webových stránkách na jakémkoli médiu, jakož i jejich prodej, pronájem, vystavení, reprodukce, kopírování nebo jakákoli jiná forma využití materiálu obsaženého na těchto stránkách pro komerční použití.",
+                                        "upravovat nebo jinak měnit jakýkoli materiál na Webových stránkách;",
+                                        "používání Stránek způsobem, který ovlivňuje nebo může ovlivnit jejich dostupnost nebo přístupnost.",
+                                        "Používání stránek nebo jejich služeb jako prostředku ke kopírování, ukládání, uchovávání, přenášení, odesílání, používání, zveřejňování nebo distribuci jakéhokoli materiálu, který obsahuje nebo je spojen s jakýmkoli typem viru nebo nebezpečného kódu.",
+                                        "Provádění jakýchkoli činností automatizovaného a systematického shromažďování údajů na Stránkách nebo v souvislosti s nimi bez výslovného a písemného souhlasu společnosti SAH."
                                     ]
                                 }
                             ]
                         },
                         {
                             "type": "subsection",
-                            "title": "Ownership of the Teacher",
+                            "title": "Vlastnictví učitele",
                             "content": [
-                                "The User acknowledges explicitly that the use by the Teacher of kinds of media such as books, drawings, films, movies or any other content subject to intellectual property rights does not mean transmission or license of any such rights in favour of the student.",
-                                "Furthermore, the User acknowledges that the TEACHER is responsible for the use of such elements, exempting SAH of any claim in this regard."
+                                "Uživatel výslovně bere na vědomí, že použití druhů materiálů, jako jsou knihy, kresby, filmy nebo jakýkoli jiný obsah, na který se vztahují práva duševního vlastnictví, ze strany učitele neznamená převod nebo licenci na taková práva ve prospěch studenta.",
+                                "Uživatel dále bere na vědomí, že za použití těchto prvků je odpovědný UČITEL a zbavuje SAH jakýchkoli nároků v tomto smyslu."
                             ]
                         }
                     ]
                 },
                 {
-                    "title": "Benefits of SAH, the availability of websites",
+                    "title": "Výhody SAH, dostupnost webových stránek",
                     "content": [
-                        "SAH offers the availability of the service as described in these terms and guarantees a technical accessibility to websites 97% of the month.",
-                        "Without prejudice to the generality of the foregoing, SAH cannot guarantee that:",
+                        "SAH nabízí dostupnost služby, jak je popsáno v těchto podmínkách, a zaručuje technickou dostupnost webových stránek 97 % v měsíci.",
+                        "Aniž by byla dotčena obecnost výše uvedeného, společnost SAH nemůže zaručit, že:",
                         {
                             "type": "unorderedList",
                             "texts": [
-                                "Website or services will be constantly available, or available at all, or",
-                                "Transmission of data to or from the site are of a minimum speed,"
+                                "Webové stránky nebo služby budou dostupné neustále nebo vůbec, nebo",
+                                "Přenos dat na stránky nebo z nich probíhá minimální rychlostí,"
                             ]
                         }
                     ]
                 },
                 {
-                    "title": "SAH liability and limitations of liability",
+                    "title": "Odpovědnost společnosti SAH a omezení odpovědnosti",
                     "content": [
                         "The sole function of SAH is to present a service of intermediation between teachers and Users. Therefore, both parties - SAH and Users - expressly recognize that activity and responsibility of SAH is limited to the proper provision of the service offered.",
                         "In the event that the User understands that the standards supplied by SAH in the benefit of some of the lessons or on the part of some of the teachers have not been met, the User, prior to filing any kind of claim, agrees to direct to SAH the corresponding claim by Email, giving any objective data and evidence available. Include Video if such recording took place.",
@@ -325,6 +325,10 @@ export default {
                         "Using the SAH website or the services provided are the User's responsibility. Given the circumstances of the environment and the means, SAH, despite having taken all reasonable measures to secure it, cannot completely guarantee that the content associated with the service is error-free or that the use of such material will not infringe on rights of third parties. SAH can not absolutely guarantee that the functional aspects of the site are error-free or that the site or the servers that make it available are free of viruses or other harmful components. SAH reserves the right to correct any errors on its website.",
                         "If the use by the User of the Website or other content or services results in the need of repairing or replacing property, material, equipment or data, or causes injury to people or damage to property, the company is not liable for the costs generated.",
                         "The user shall at the same time take protective measures on their computers that are considered generally appropriate"
+						
+						
+						
+						
                     ]
                 },
                 {
