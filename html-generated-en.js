@@ -318,7 +318,7 @@ export default {
                 {
                     "title": "Odpovědnost společnosti SAH a omezení odpovědnosti",
                     "content": [
-                        "Jedinou funkcí SAH je poskytovat zprostředkovatelskou službu mezi učiteli a uživateli. Z tohoto důvodu obě strany - SAH i Uživatelé - výslovně uznávají, že činnost a odpovědnost SAH je omezena na řádné poskytování nabízené služby.",
+                        "Jedinou funkcí Společnosti SAH je poskytovat zprostředkovatelskou službu mezi učiteli a uživateli. Z tohoto důvodu obě strany - SAH i Uživatelé - výslovně uznávají, že činnost a odpovědnost SAH je omezena na řádné poskytování nabízené služby.",
                         "V případě, že Uživatel má za to, že standardy poskytnuté SAH ve prospěch některé z lekcí nebo ze strany některých učitelů nebyly splněny, Uživatel před podáním jakékoliv reklamace souhlasí s tím, že příslušnou reklamaci zašle SAH e-mailem a uvede veškeré objektivní údaje a důkazy, které má k dispozici včetně videozáznamu, pokud k takovému záznamu došlo.",
                         "V případě, že je reklamace uznána ze strany SAH, a po vyslechnutí učitele zjištěno špatné poskytování služeb, tak SAH vrátí platbu odpovídající lekci, která byla předmětem nároku.",
                         "V každém případě uživatel přijetím těchto podmínek souhlasí s tím, že SAH odpovídá pouze do maximální výše odpovídající hodnotě kreditů účtovaných uživateli za lekci, která byla předmětem reklamace.",
@@ -362,7 +362,7 @@ export default {
                                  "poškodil nebo způsobil škodu jiným uživatelům,",
                                 "poškozuje pověst nebo veřejný obraz společnosti SAH",
                                 "podniká aktivity, které formulují buď názory, nebo obsahují nezákonný či urážlivý obsah",
-                                "provádí jakoukoli činnost, která je chápána jako nevhodná v rámci provozu SAH",
+                                "provádí jakoukoli činnost, která je chápána jako nevhodná v rámci provozu Společnosti SAH",
                                  "má na svém účtu nebo kartě nezaplacené nebo odmítnuté poplatky".
                             ]
                         },
@@ -557,7 +557,7 @@ export default {
                         {
                             "type": "unorderedList",
                             "texts": [
-                                " konkurenceschopná výše odměny za každou lekci.",
+                                "konkurenceschopná výše odměny za každou lekci.",
                                 "Práce na dálku. Výuka angličtiny odkudkoli.",
                                 "Flexibilní rozvrh. Sami si zvolíte svou dostupnost v rámci minimálního počtu hodin týdně.",
                                 "Stabilní práce, slučitelná s Vaším společenským životem, ostatními zaměstnáními, a dokonce i se studiem.",
