@@ -318,13 +318,13 @@ export default {
                 {
                     "title": "Odpovědnost společnosti SAH a omezení odpovědnosti",
                     "content": [
-                        "The sole function of SAH is to present a service of intermediation between teachers and Users. Therefore, both parties - SAH and Users - expressly recognize that activity and responsibility of SAH is limited to the proper provision of the service offered.",
-                        "In the event that the User understands that the standards supplied by SAH in the benefit of some of the lessons or on the part of some of the teachers have not been met, the User, prior to filing any kind of claim, agrees to direct to SAH the corresponding claim by Email, giving any objective data and evidence available. Include Video if such recording took place.",
-                        "In the event that it is credited by SAH, and after hearing the teacher, a poor service delivery, SAH will return the payment, corresponding to the lesson that was the object of the claim.",
-                        "In any case, by accepting these terms and conditions, the User agrees that SAH is only liable up up to the maximum amount equivalent to the value of the Credits charged to the User for the lesson that is the object of the claim.",
-                        "Using the SAH website or the services provided are the User's responsibility. Given the circumstances of the environment and the means, SAH, despite having taken all reasonable measures to secure it, cannot completely guarantee that the content associated with the service is error-free or that the use of such material will not infringe on rights of third parties. SAH can not absolutely guarantee that the functional aspects of the site are error-free or that the site or the servers that make it available are free of viruses or other harmful components. SAH reserves the right to correct any errors on its website.",
-                        "If the use by the User of the Website or other content or services results in the need of repairing or replacing property, material, equipment or data, or causes injury to people or damage to property, the company is not liable for the costs generated.",
-                        "The user shall at the same time take protective measures on their computers that are considered generally appropriate"
+                        "Jedinou funkcí SAH je poskytovat zprostředkovatelskou službu mezi učiteli a uživateli. Z tohoto důvodu obě strany - SAH i Uživatelé - výslovně uznávají, že činnost a odpovědnost SAH je omezena na řádné poskytování nabízené služby.",
+                        "V případě, že Uživatel má za to, že standardy poskytnuté SAH ve prospěch některé z lekcí nebo ze strany některých učitelů nebyly splněny, Uživatel před podáním jakékoliv reklamace souhlasí s tím, že příslušnou reklamaci zašle SAH e-mailem a uvede veškeré objektivní údaje a důkazy, které má k dispozici včetně videozáznamu, pokud k takovému záznamu došlo.",
+                        "V případě, že je reklamace uznána ze strany SAH, a po vyslechnutí učitele zjištěno špatné poskytování služeb, tak SAH vrátí platbu odpovídající lekci, která byla předmětem nároku.",
+                        "V každém případě uživatel přijetím těchto podmínek souhlasí s tím, že SAH odpovídá pouze do maximální výše odpovídající hodnotě kreditů účtovaných uživateli za lekci, která byla předmětem reklamace.",
+                        "Za používání webových stránek SAH nebo poskytovaných služeb odpovídá uživatel. Vzhledem k okolnostem prostředí a prostředkům nemůže společnost SAH, přestože přijala veškerá přiměřená opatření k jejich zabezpečení, zcela zaručit, že obsah spojený se službou je bez chyby nebo že používání takového materiálu nebude porušovat práva třetích osob. Společnost SAH nemůže absolutně zaručit, že funkční hlediska stránek jsou bezchybná nebo že stránky nebo servery, které je zpřístupňují, neobsahují viry nebo jiné škodlivé komponenty. SAH si vyhrazuje právo opravit případné chyby na svých webových stránkách.",
+                        "Pokud má používání webových stránek nebo jiného obsahu či služeb uživatelem za následek potřebu opravy nebo výměny majetku, materiálu, zařízení nebo dat, anebo způsobí zranění osob či poškození majetku, společnost nenese odpovědnost za vzniklé finanční náklady.",
+                        "Uživatel současně přijme na svých počítačích ochranná opatření, která jsou považována za všeobecně vhodná."
 						
 						
 						
@@ -332,66 +332,66 @@ export default {
                     ]
                 },
                 {
-                    "title": "Changes to the terms and conditions",
+                    "title": "Změny smluvních podmínek",
                     "content": [
-                        "SAH reserves the right to change or extend these terms and conditions in the future. Any changes or additions will be, per the choice of SAH, indicated on the Web or by email individually to each User registered to the Email address registered at the time of the changes.",
-                        "If the User is not expressly opposed before the end of the term of his/her subscription, or within the term of one month, changes, or additions, shall be deemed as accepted."
+                        "Společnost SAH si vyhrazuje právo tyto podmínky v budoucnu změnit nebo rozšířit. Jakékoli změny nebo doplnění budou podle rozhodnutí společnosti SAH uvedeny na webu nebo zaslány e-mailem jednotlivě každému uživateli registrovanému na e-mailovou adresu evidovanou v době těchto změn.",
+                        "Pokud uživatel výslovně nevyjádří nesouhlas před koncem doby trvání svého předplatného nebo ve lhůtě jednoho měsíce, změny nebo dodatky se pokládají za přijaté."
                     ]
                 },
                 {
-                    "title": "Sanctions, termination and revocation",
+                    "title": "Sankce, ukončení a zrušení smlouvy",
                     "content": [
-                        "SAH reserves the right, always with respect for the rights and legitimate interests of the User, when there are indications of an infringement on the other hand against the laws in force, the rights of third parties or violation of the obligations arising from these terms and conditions, to:",
+                        "Společnost SAH si vyhrazuje právo, vždy s ohledem na práva a oprávněné zájmy uživatele v případě, že existují podezření na porušení platných právních předpisů, práv třetích osob nebo porušení povinností vyplývajících z těchto podmínek, na:",
                         {
                             "type": "unorderedList",
                             "texts": [
-                                "warn users, so that they cease the harmful activity",
-                                "restrict the use of the websites",
-                                "the extraordinary termination and closure of the account of the User"
+                                "varovat uživatele, aby se škodlivou činností přestali zabývat",
+                                "omezit používání webových stránek",
+                                "mimořádně ukončit a zrušit účet uživatele"
                             ]
                         },
-                        "2. Termination of the user agreement",
-                        "(a) extraordinary termination and closure of account by SAH",
-                        "SAH reserves the right to terminate the contract with the User in an extraordinary way and prevent access to websites in the event of a breach by the User of any of the points set out in these terms and conditions, as well as when the User:",
+                        "2. Ukončení uživatelské smlouvy",
+                        "(a) mimořádné ukončení a uzavření účtu společností SAH",
+                        "Společnost SAH si vyhrazuje právo mimořádně ukončit smlouvu s uživatelem a zamezit mu v přístupu na webové stránky v případě, že uživatel poruší některý z bodů uvedených v těchto podmínkách, jakož i v případě, že uživatel:",
                         {
                             "type": "unorderedList",
                             "texts": [
-                                "provides false contact information, particularly a false or incorrect email address.",
-                                "maintains offensive, degrading, aggressive, threatening or disrespectful attitudes with the teachers.",
-                                "transmitted or transferred his/her account to another user.",
-                                "damaged or caused damages to other Users,",
-                                "damages the reputation or public image of SAH",
-                                "undertakes activities, formulating either opinions or including illegal or offensive content",
-                                "undertakes any activity that is understood as not appropriate within the operation of SAH",
-                                "has a non-payment or rejection of the charge on his/her account or card"
+                                "uvede nepravdivé kontaktní údaje, zejména nepravdivou nebo nesprávnou e-mailovou adresu.",
+                                "udržuje urážlivé, ponižující, agresivní, výhružné nebo neuctivé chování vůči učitelům.",
+                                "předal nebo převedl svůj účet na další uživatele.",
+                                 "poškodil nebo způsobil škodu jiným uživatelům,",
+                                "poškozuje pověst nebo veřejný obraz společnosti SAH",
+                                "podniká aktivity, které formulují buď názory, nebo obsahují nezákonný či urážlivý obsah",
+                                "provádí jakoukoli činnost, která je chápána jako nevhodná v rámci provozu SAH",
+                                 "má na svém účtu nebo kartě nezaplacené nebo odmítnuté poplatky".
                             ]
                         },
-                        "In the event of termination and cancellation of the account by SAH in the above terms, the User subject to this penalty, is not entitled to the recovery of the blocked account. In this case, access is prohibited even if it is through other accounts or usernames.",
-                        "The cancellation of the User account under the terms of this paragraph will generate the right to compensation in favour of SAH, at least, the amount paid by the User for credits not consumed at the time of the cancellation. With a minimum fixed amount of 200€ as compensation for the management, administrative, financial or any other costs incurred by SAH",
-                        "In any case, the amount set out in the preceding paragraph does not limit the liability of the User for their actions, and SAH reserves expressly many actions it deems necessary in defense of its interests of any kind or restitution for the damage caused.",
-                        "(b) the termination of the contract by the User may occur at any time and without giving any cause. Such waiver of the contract by the User, should be undertaken a maximum of one month before the maximum period of validity of the existing credits fixed in section 4.1 of the present terms and conditions and by sending an email to the address.",
-                        "Once this right of unilateral resolution is exercised by the User, SAH will proceed to return the following amounts to the user depending on the circumstances.",
+                        "V případě ukončení a zrušení účtu ze strany společnosti SAH za výše uvedených podmínek nemá uživatel, na kterého se vztahuje tato sankce, nárok na obnovení zablokovaného účtu. V takovém případě je přístup zakázán, a to i v případě, že se tak děje prostřednictvím jiných účtů nebo uživatelských jmen.",
+                        "Zrušení uživatelského účtu za podmínek uvedených v tomto odstavci zakládá nárok na náhradu škody ve prospěch společnosti SAH, a to minimálně ve výši částky zaplacené uživatelem za kredity, které nebyly v době zrušení účtu spotřebovány. S minimální pevnou částkou ve výši 200 EUR jako kompenzaci za správní, administrativní, finanční nebo jiné náklady vzniklé společnosti SAH.",
+                        "V každém případě částka uvedená v předchozím odstavci nijak neomezuje odpovědnost Uživatele za jeho jednání a SAH si výslovně vyhrazuje mnoho úkonů, které považuje za nezbytné při obraně svých zájmů jakéhokoli druhu nebo při náhradě vzniklé škody.",
+                        "(b) k ukončení smlouvy ze strany uživatele může dojít kdykoli a bez udání důvodu. Takové odstoupení od smlouvy ze strany uživatele je třeba provést maximálně jeden měsíc před uplynutím maximální doby platnosti stávajících kreditů stanovené v bodě 4.1 těchto obchodních podmínek a zasláním e-mailu na adresu.",
+                        "Jakmile bude toto právo jednostranného řešení uživatelem využito, SAH přistoupí k vrácení následujících částek uživateli v závislosti na konkrétních okolnostech.",
                         {
                             "type": "unorderedList",
                             "texts": [
-                                "If the waiver or unilateral termination by the User occurs during the first 30 days since the acquisition of credits and without consuming any of these, SAH will return all of the amount paid.",
-                                "If the waiver or unilateral termination by the User occurs subsequently to the first 30 days since the acquisition of credits; or having consumed some of them even within the first 30 days, SAH will credit the User only the amount corresponding to 50% of the credits acquired but not consumed as compensation for the costs of management, administration and financial"
+                                "Pokud dojde k odstoupení od smlouvy nebo k jednostrannému ukončení smlouvy ze strany uživatele během prvních 30 dnů od nabytí kreditů, aniž by došlo k jejich spotřebování, společnost SAH vrátí celou uhrazenou částku.",
+                                "Pokud k odstoupení od smlouvy nebo k jednostrannému ukončení smlouvy ze strany uživatele dojde po uplynutí prvních 30 dnů od nabytí kreditů nebo po spotřebování některých z nich i během prvních 30 dnů, společnost SAH připíše uživateli pouze částku odpovídající 50 % nabytých, ale nespotřebovaných kreditů jako kompenzaci za náklady na vedení, správu a finance"
                             ]
                         },
-                        "(c) the contract by SAH may be terminated by SAH at any time and with any User.",
-                        "In this case, SAH will pay to the User the amount of credits he/she purchased and did not use.",
-                        "The notification of the termination of the agreement by SAH will be undertaken by writing to the email address listed as location of the user notifications.",
-                        "SAH, in case of unilateral termination of the contract, will proceed to refund the amounts paid by the User and not effectively used.",
-                        "3. A request for cancellation of a contract must be in writing by email sent from the email that is registered in the account of SAH.",
-                        "Cancellation by SAH shall be in writing, by fax or by email."
+                        "(c) společnost SAH může smlouvu vypovědět kdykoli a s kterýmkoli uživatelem.",
+                        "V takovém případě SAH vyplatí Uživateli sumu kreditů, které si zakoupil a nevyužil.",
+                        "Oznámení o ukončení smlouvy ze strany společnosti SAH bude provedeno písemně na e-mailovou adresu uvedenou v umístění oznámení uživatele.",
+                        "Společnost SAH v případě jednostranného ukončení smlouvy přistoupí k vrácení částek, které uživatel zaplatil a reálně nevyužil.",
+                        "3. Žádost o zrušení smlouvy musí být písemná, a to e-mailem zaslaným z e-mailu, který je registrován v účtu společnosti SAH.",
+                        "Zrušení smlouvy ze strany společnosti SAH musí být provedeno písemně, faxem nebo e-mailem."
                     ]
                 },
                 {
-                    "title": "Applicable law and jurisdiction, invalidity",
+                    "title": "Rozhodné právo a pravomoc, neplatnost",
                     "content": [
-                        "The contract contained in these terms and conditions is subject to the law of Spain.",
-                        "The parties in the contract subject to these terms and conditions agree to submit in any discrepancies on the object, content or interpretation thereof, to the courts and tribunals of Madrid in all cases in which an Imperative Law did not state otherwise.",
-                        "If one or more of the provisions of these terms and conditions were declared void by a court, such declaration of invalidity will not affect the validity of the other clauses of the contract, which shall remain valid, applicable and enforceable on the parties."
+                        "Smlouva obsažená v těchto podmínkách podléhá španělskému právu.",
+                        "Strany smlouvy, která je předmětem těchto obchodních podmínek, souhlasí s tím, že v případě jakýchkoli rozporů ohledně jejich předmětu, obsahu nebo výkladu se podřídí soudům a tribunálům v Madridu ve všech případech, kdy imperativní zákon nestanoví jinak.",
+                        "Pokud by jedno nebo více ustanovení těchto obchodních podmínek bylo soudem prohlášeno za neplatné, nebude mít takové prohlášení neplatnosti vliv na platnost ostatních ustanovení smlouvy, která zůstávají platná, použitelná a vůči smluvním stranám vymahatelná."
                     ]
                 }
             ]
@@ -399,107 +399,107 @@ export default {
     },
     "privacy_policy": {
         "head": {
-            "title": "Privacy Policy - Speakingathome",
-            "description": "Privacy Policy of Speakingathome website",
+            "title": "Zásady ochrany osobních údajů - Speakingathome",
+            "description": "Zásady ochrany osobních údajů webových stránek Speakingathome",
             "keywords": ""
         },
         "body": {
-            "title": "PRIVACY AND DATA PROTECTION POLICY.",
+            "title": "ZÁSADY OCHRANY OSOBNÍCH ÚDAJŮ.",
             "introduction": {
                 "texts": [
-                    "The personal information collected by SAH will be used for the proper provision of the service and management of the Web. This includes the management of traffic by said SAH for internal management and advertising purposes."
+                    "Osobní údaje shromážděné společností SAH budou použity pro řádné poskytování služeb a správu webu. To zahrnuje správu provozu zmíněnou společností SAH pro účely interní správy a reklamy."
                 ]
             },
             "preamble": {
                 "sections": [
                     {
-                        "title": "Data collected:",
-                        "texts": ["SAH will exclusively treat the data directly contributed voluntarily and actively by the user, or consented to by the user, essential for the provision of the service, the management of SAH activities in relation to the service and for the quality control thereof."]
+                        "title": "Shromážděná data:",
+                        "texts":["SAH bude nakládat výhradně s údaji, které uživatel přímo dobrovolně a sám aktivně poskytl nebo s nimiž uživatel souhlasil, a které jsou nezbytné pro poskytování služby, řízení činností společnosti SAH v souvislosti se službou a pro kontrolu její kvality."]
                     }, {
-                        "title": "Use of the data:",
-                        "texts": ["The data will be used for the correct provision of the service and for the control of the correct provision and quality of the same."]
+                        "title": "Použití získaných dat:",
+                        "texts": [" Data budou použita pro správné poskytování služby a pro kontrolu jejího správného poskytování a odpovídající kvality."]
                     }, {
-                        "title": "Data transfer:",
+                        "title": "Přenos dat:",
                         "texts": [
-                            "The data collected may be transferred to collaborating companies or with which you have contracted for your own advertising purposes.",
-                            "Such transferred data will be strictly essential depending on the services to be provided by each of these companies and / or persons."
+                            "Shromážděné údaje mohou být předány spolupracujícím společnostem nebo společnostem, se kterými jste uzavřeli smlouvu pro vlastní reklamní účely.",
+                            "Takto předávané údaje budou nezbytně nutné v závislosti na službách, které má každá z těchto společností a/nebo osob poskytovat."
                         ]
                     }, {
-                        "title": "Consent:",
+                        "title": "Souhlas:",
                         "texts": [
-                            "As a User of the Website, and by accepting these Conditions of Privacy and Data Protection, I am aware and expressly accept that the personal data entered by me will be stored processed and used in order to provide the service in the way that It is detailed in the <a class=\"text-red\" href=\"terms_and_conditions.html\">Terms and conditions</a> and with the conditions contained in this privacy policy.",
-                            "As stated in the <a class=\"text-red\" href=\"legal_notice.html\">Legal Notice</a> section of this website, Speakingathome S.L. with CIF B87350856 is the owner of the website <a class=\"text-red\" href=\"https://www.speakingathome.com/\">www.speakingathome.com</a>, and sets out in this section the Policy of Privacy in relation to the personal information that the user can provide when visiting the Web.",
-                            "The Speakingathome Privacy Policy (hereinafter SAH), seeks compliance with current legislation on the protection of personal data. In particular, Regulation (EU) 2016/679 of the European Parliament and of the Council of April 27, 2016, concerning the protection of natural persons with regard to the processing of personal data and the free movement of these data, as well as to the Organic Law 3/2018, of December 5, on the Protection of Personal Data and guarantee of digital rights."
+                            "Jako uživatel webových stránek a přijetím těchto Podmínek ochrany soukromí a osobních údajů jsem si vědom/a a výslovně souhlasím s tím, že mnou zadané osobní údaje budou uloženy, zpracovány a použity za účelem poskytování služby způsobem, který je podrobně popsán v <a class=\"text-red\" href=\"terms_and_conditions.html\">Podmínkách ochrany osobních údajů</a> a s podmínkami obsaženými v těchto zásadách ochrany soukromí.",
+                            "Jak je uvedeno v sekci <a class=\"text-red\" href=\"legal_notice.html\">Právní upozornění</a> těchto webových stránek, společnost Speakingathome S.L. s CIF B87350856 je vlastníkem webových stránek <a class=\"text-red\" href=\"https://www.speakingathome.com/\">www.speakingathome.com</a> a v této sekci stanovuje Zásady ochrany osobních údajů ve vztahu k osobním údajům, které může uživatel poskytnout při návštěvě webu.",
+                            "Politika ochrany osobních údajů společnosti Speakingathome (dále jen SAH), usiluje o dodržování platných právních předpisů o ochraně osobních údajů. Zejména s nařízením Evropského parlamentu a Rady (EU) 2016/679 ze dne 27. dubna 2016 o ochraně fyzických osob v souvislosti se zpracováním osobních údajů a o volném pohybu těchto údajů, jakož i s ústavním zákonem č. 3/2018 ze dne 5. prosince 2018 o ochraně osobních údajů a zaručení digitálních práv."
                         ]
                     }]
             },
             "sections": [
                 {
-                    "title": "Formal express consent",
+                    "title": "Výslovný formální souhlas",
                     "content": [
-                        "As is stated in the <a class=\"text-red\" href=\"legal_notice.html\">Legal Notice</a> of this Website, Speakingathome Ltd., Identification B87350856, is the owner of the website <a class=\"text-red\" href=\"https://www.speakingathome.com/\">www.speakingathome.com</a>, and exhibits in this section a Privacy Policy concerning the personal information that the user can provide when visiting the Website.",
-                        "The Privacy Policy of Speakingathome (hereinafter SAH), seeks compliance with legislation on protection of personal data. In particular, Organic Law 15/1999, of the 13th of December, of Protection of Data of Personal Nature(LOPD) and Royal Decree 1720 / 2007, of the 21st of December, which approves the Regulation of Development of the Organic Law 15/1999 (RLOPD).",
-                        "As a user of the Website, and through the acceptance of the current Privacy and Data Protection, I am aware and agree expressly that the personal data entered by myself will be stored, processed and used in order to provide the service in a way that is detailed in the <a class=\"text-red\" href=\"terms_and_conditions.html\">Conditions of Use</a> and with the conditions contained in this privacy policy."
+                        "Jak je uvedeno v <a class=\"text-red\" href=\"legal_notice.html\">Právní upozornění</a> těchto webových stránek, společnost Speakingathome Ltd., identifikační číslo B87350856, je vlastníkem webových stránek <a class=\"text-red\" href=\"https://www.speakingathome.com/\">www.speakingathome.com</a> a v této části uvádí Zásady ochrany osobních údajů, které může uživatel poskytnout při návštěvě webových stránek.",
+                        "Zásady ochrany osobních údajů společnosti Speakingathome (dále jen SAH), usiluje o dodržování právních předpisů o ochraně osobních údajů. Zejména se jedná o Ústavní zákon 15/1999 ze dne 13. prosince o ochraně údajů osobní povahy(LOPD) a Královský dekret 1720 / 2007 ze dne 21. prosince, kterým se schvaluje nařízení o vývoji Ústavního zákona 15/1999 (RLOPD).",
+                        "Jako uživatel webových stránek a prostřednictvím souhlasu s aktuálně platnými Zásadami ochrany soukromí a osobních údajů jsem si vědom/a a výslovně souhlasím s tím, že mnou zadané osobní údaje budou uchovávány, zpracovávány a používány za účelem poskytování služeb způsobem, který je podrobně popsán v <a class=\"text-red\" href=\"terms_and_conditions.html\">Podmínky používání</a> a s podmínkami obsaženými v těchto Zásadách ochrany soukromí."
                     ]
                 },
                 {
-                    "title": "Information and ownership of the file",
+                    "title": "Informace a vlastnictví souboru",
                     "content": [
-                        "SAH collects data of a personal nature from users and professionals registered on the Websites and includes them in an owned file, whose treatment is exclusively intended for the purpose of managing the services requested and responding to the queries of Users. The Responsible Party for the files is Speakingathome Ltd.",
-                        "Information received by SAH through their website will be treated with the utmost confidentiality, observing the provisions in force about data protection, and, in particular, the Law 15/1999, of the the 13th of December, of Protection of Data of a Personal Nature at all times. It also adopts necessary measures to, in relation to such data, prevent unauthorised alteration, loss, treatment and access, as well as the duty of secrecy on of the data to be protected and other existing obligations of confidentiality. It also agrees not to use the personal data of the users registered on the websites for different purposes other than, or related to, the contracting of the services it provides.",
-                        "The user must provide data and personal circumstances required in the registration form to register as a client of the service and/or the payment corresponding to the contract for the provision of services. The registration of such data is mandatory; lack of complementarity of the same by the user or the provision of incorrect data shall entitle SAH to deny the provision of the service at any time. The User or Professional can skip or fail to communicate any data or personal circumstance that is not absolutely necessary to register as a customer or for the formation of the contract."
+                        "Společnost SAH shromažďuje údaje osobní povahy od uživatelů a profesionálů registrovaných na webových stránkách a zařazuje je do vlastního souboru, jehož zpracování je určeno výhradně pro účely správy požadovaných služeb a zodpovídání dotazů uživatelů. Odpovědnou stranou za tyto soubory je společnost Speakingathome Ltd.",
+                        "S informacemi, které společnost SAH obdrží prostřednictvím svých webových stránek, bude zacházeno s maximální důvěrností, přičemž budou vždy dodržována platná ustanovení o ochraně údajů, a zejména zákon 15/1999 ze dne 13. prosince o ochraně údajů osobní povahy. Přijímá rovněž nezbytná opatření, aby se ve vztahu k těmto údajům zabránilo neoprávněným změnám, ztrátě, manipulaci a přístupu k nim, jakož i povinnost zachovávat mlčenlivost o údajích, které mají být chráněny a další existující povinnosti týkající se důvěrnosti. Rovněž se zavazuje, že nebude používat osobní údaje uživatelů zaregistrovaných na internetových stránkách k jiným účelům, než je uzavírání smluv o poskytování služeb nebo v souvislosti s nimi.",
+                        "Uživatel je povinen poskytnout údaje a osobní skutečnosti požadované v registračním formuláři pro registraci jako klient služby a/nebo platbu odpovídající smlouvě o poskytování služeb. Registrace těchto údajů je povinná; jejich nedoplnění uživatelem nebo poskytnutí nesprávných údajů opravňuje společnost SAH kdykoli odmítnout poskytnutí služby. Uživatel nebo profesionál může vynechat nebo neoznámit jakýkoli údaj nebo osobní skutečnost, která není nezbytně nutná pro registraci jako zákazníka nebo pro uzavření smlouvy."
                     ]
                 },
                 {
-                    "title": "Information Collection",
+                    "title": "Shromažďování informací",
                     "content": [
-                        "The Website User agrees expressly that the data and contents entered by said User, or in the record, well within the normal operations of SAH - described in the <a class=\"text-red\" href=\"terms_and_conditions.html\">Conditions of Use</a>-, and of its activity, to be incorporated into an automated file owned by Speakingathome Ltd.",
-                        "Additionally, the User consents to the processing of the User's data in order to inform the User, by any means, including email, any changes or developments in policies, activity or products and services of Speakingathome Ltd. or third collaborating companies.",
-                        "SAH. may use third-party companies to evaluate or monitor with the aim of efficient management of the Website, as well as services or Advertising Websites in order to put advertisements on the Website of SAH or send advertising to Users. Said companies may use cookies or other instruments to measure the effectiveness of our advertising.",
-                        "At the same time, the client expressly accepts that the email address provided at the time of registration is the contact address to inform the User of acts within the sphere of action of the owner of the file, when the Organic Law 15/1999 requires that they be communicated to the customer.",
-                        "Also, the user expressly consents that SAH communicate the data as necessary to companies or banks needed for management and/or the payment of the service."
+                        "Uživatel webových stránek výslovně souhlasí s tím, aby údaje a obsah, které zadal nebo které jsou v záznamu, byly v rámci běžného provozu společnosti SAH - popsaného v <a class=\"text-red\" href=\"terms_and_conditions.html\">Podmínky používání</a>- a její činnosti - začleněny do automatizovaného souboru, jehož vlastníkem je společnost Speakingathome Ltd.",
+                        "Uživatel dále souhlasí se zpracováním svých údajů za účelem informování uživatele jakýmikoliv prostředky, včetně e-mailu, o změnách nebo vývoji pravidel, činností nebo produktů a služeb společnosti Speakingathome Ltd. nebo třetích spolupracujících společností.",
+                        "Společnost SAH. může využívat společnosti třetích stran k vyhodnocování nebo monitorování s cílem efektivní správy Webových stránek, jakož i služeb nebo Reklamních webových stránek za účelem umístění reklamy na Webové stránky společnosti SAH nebo zasílání reklamy Uživatelům. Uvedené společnosti mohou používat soubory cookies nebo jiné nástroje k měření účinnosti naší reklamy.",
+                        "Současně klient jednoznačně souhlasí s tím, že e-mailová adresa uvedená při registraci je kontaktní adresou pro informování Uživatele o úkonech ve sféře činnosti vlastníka souboru, pokud Ústavní zákon 15/1999 vyžaduje, aby byly sděleny zákazníkovi.",
+                        "Uživatel rovněž výslovně souhlasí s tím, aby společnost SAH sdělila údaje podle potřeby společnostem nebo bankám potřebným pro správu a/nebo úhradu služby."
                     ]
                 },
                 {
                     "title": "Audio Recording",
                     "content": [
-                        "SAH, within its services, offers the user the possibility to record classes of that User, although always subject to technical availability of both the TEACHER and the User.",
-                        "The request for the recording by the student in the form contained in the <a class=\"text-red\" href=\"terms_and_conditions.html\">Conditions of Use</a> involves the express authorization for the storage, treatment and transmission of the data collected by this concept in the conditions contained in the present Conditions and Privacy and Data Protection Policy.",
-                        "Being essential for the transmission of the storage of the recording previously mentioned, the user accepts, that if the User requests a recording of this kind, this will be recorded and stored on the device of the Teacher, in order to send a copy of the recording to the User after the completion.",
-                        "Also, the User expressly accepts that the recording may be promptly and upon notice, stored on servers of SAH and be used for checking the quality of the service offered by SAH, as well as in resolution or investigation of any type of conflict, lawsuit, complaint, claim, or controversy arising SAH's relationships with the User, as well as SAH with its teachers, and between teachers and user.",
-                        "The user expressly acknowledges that the owner of the file in which the recording is stored is the TEACHER from whom the user expressly requested it and that SAH is not the owner or responsible entity; nor does it have access to the stored data. Therefore, the exercise of the rights that the data protection law recognises, as well as any other type of communication or claim relating to the aforementioned shall be directed directly to the corresponding teacher.",
-                        "One month following the date of the recording, if there has been no complaint or any claim on a class, the teacher will erase recordings. After which, recovery is not possible."
+                        "Společnost SAH v rámci svých služeb nabízí uživateli možnost nahrávat výuku daného uživatele, vždy však v závislosti na technické dostupnosti jak UČITELE, tak i uživatele.",
+                        "Žádost o nahrávání ze strany žáka ve formě obsažené v <a class=\"text-red\" href=\"terms_and_conditions.html\">Podmínky používání</a> zahrnuje výslovný souhlas s uchováváním, zpracováním a předáváním údajů shromážděných tímto konceptem za podmínek obsažených v těchto Podmínkách a Zásadách ochrany soukromí a osobních údajů.",
+                        "Vzhledem k tomu, že pro předání a uložení dříve uvedeného záznamu je nezbytné, uživatel souhlasí s tím, že pokud si vyžádá záznam tohoto druhu, bude tento záznam pořízen a uložen na zařízení Učitele, aby bylo možné po jeho dokončení zaslat kopii záznamu uživateli.",
+                        "Uživatel rovněž výslovně souhlasí s tím, že nahrávka může být neprodleně a po upozornění uložena na serverech společnosti SAH a může být použita pro kontrolu kvality služby nabízené společností SAH, jakož i při řešení nebo vyšetřování jakéhokoli typu konfliktu, soudního sporu, stížnosti, nároku nebo sporu vyplývajícího ze vztahů společnosti SAH s uživatelem, jakož i společnosti SAH s jejími učiteli a mezi učiteli a uživatelem.",
+                        "Uživatel si je výslovně vědom toho, že vlastníkem souboru, v němž je uložena nahrávka je UČITEL, od něhož si ji uživatel výslovně vyžádal, a že společnost SAH není vlastníkem ani odpovědným subjektem; nemá ani přístup k uloženým datům. Uplatnění práv, která zákon o ochraně osobních údajů uznává, jakož i jakýkoli jiný druh komunikace nebo nároku týkající se výše uvedeného, je proto třeba směřovat přímo na dotyčného učitele.",
+                        "Po uplynutí jednoho měsíce od data pořízení záznamu, pokud nedošlo k žádné stížnosti nebo jakémukoli nároku na lekci, učitel záznamy vymaže. Poté již obnovení není možné."
                     ]
                 },
                 {
-                    "title": "Data: Access, modification, cancellation and opposition",
+                    "title": "Data: Přístup, změna, zrušení a námitky",
                     "content": [
-                        "In case of not authorizing the processing of your data for the purpose referred to in the preceding paragraph, the user may exercise their right to oppose the processing by an email with the reference \"Data protection\" to the email address <strong>contact@speakingathome.com</strong> or by written and signed request sent by certified mail to the following address:",
+                        "V případě nesouhlasu se zpracováním Vašich údajů pro účely uvedené v předchozím odstavci může uživatel uplatnit své právo vznést námitku proti zpracování e-mailem s odkazem \"Ochrana údajů\" na e-mailovou adresu <strong>contact@speakingathome.com</strong> nebo písemnou a podepsanou žádostí zaslanou doporučeně na následující adresu:",
                         "Speakingathome Ltd., Calle Julio Romero, 12, 2nd A of Móstoles (Madrid),",
-                        "The same mechanism referred to in the preceding paragraph shall be established for the exercise on the part of the User rights that legally accompany access, rectification and cancellation.",
-                        "Data collected by SAH may be processed and stored in Spain or any other country where it has facilities. Similarly, non-members of the EU, may carry out international data transfers to countries for what the customer consents expressly, in accordance with the law.",
-                        "In particular, SAH will provide registered users and professionals a mechanism on the websites to delete information automatically from the files."
+                        "Stejný mechanismus uvedený v předchozím odstavci je zaveden pro výkon práva ze strany uživatele, které ze zákona zahrnuje přístup, opravu a zrušení.",
+                        "Údaje shromážděné společností SAH mohou být zpracovávány a uchovávány ve Španělsku nebo v jakékoli jiné zemi, kde má společnost SAH své provozovny. Stejně tak může společnost, která není členem EU, provádět mezinárodní předávání údajů do zemí, k čemuž zákazník v souladu se zákonem udělí výslovný souhlas.",
+                        "Společnost SAH zejména poskytne registrovaným uživatelům a odborníkům na webových stránkách mechanismus pro automatické vymazání informací ze souborů."
                     ]
                 },
                 {
-                    "title": "Security in the information treatment process and data custody",
+                    "title": "Bezpečnost v procesu zpracování informací a uchovávání dat",
                     "content": [
-                        "SAH represents and warrants that it maintains the levels of safety for the protection of personal data pursuant to the legislation in force, and has established all the technical means at its disposal to prevent the loss, misuse, alteration, unauthorised access and theft of the data provided by Users. All this without prejudice to the fact, that the User or Professional expressly accepts that Internet security measures are not impregnable."
+                        "Společnost SAH prohlašuje a zaručuje, že udržuje úroveň bezpečnosti ochrany osobních údajů v souladu s platnými právními předpisy a že zavedla veškeré technické prostředky, které má k dispozici, aby zabránila ztrátě, zneužití, změně, neoprávněnému přístupu a krádeži údajů poskytnutých uživateli. To vše bez ohledu na fakt, že Uživatel nebo Profesionál výslovně akceptuje, že bezpečnostní opatření na Internetu nejsou neprolomitelná."
                     ]
                 },
                 {
-                    "title": "Cookies",
+                    "title": "Soubory cookies",
                     "content": [
-                        "Cookies are small pieces of information necessary for us to be able to identify a User during the visit to our Website and during the period of time that is connected. The user's browser stores cookies on the hard drive only during the current session, occupying minimal memory space and not harming the computer. The cookies do not contain any specific personal information and most of them are deleted from the hard drive at the end of the browser session (so-called session cookies).",
-                        "Most browsers accept cookies as standard and, independently from them, you can allow or block temporary or stored cookies in the security settings.",
-                        "Without your express consent - by enabling cookies in your browser - SAH will not embed in the cookies the stored data with your personal data provided at the time of registration or purchase. See use of Cookies"
+                        "Soubory cookies jsou malé informace, které potřebujeme k tomu, abychom mohli identifikovat uživatele během návštěvy našich webových stránek a po dobu, po kterou je připojen. Prohlížeč uživatele ukládá soubory cookie na pevný disk pouze během aktuální relace, přičemž tyto soubory zabírají minimální místo v paměti a nepoškozují počítač. Soubory cookie neobsahují žádné konkrétní osobní údaje a většina z nich je na konci relace prohlížeče z pevného disku opět vymazána (tzv. soubory cookies relace).",
+                        "Většina prohlížečů soubory cookies standardně přijímá a nezávisle na nich můžete v nastavení zabezpečení povolit nebo zablokovat dočasné nebo uložené soubory cookies.",
+                        "Bez Vašeho jednoznačného souhlasu - povolením cookies ve Vašem prohlížeči - nebude společnost SAH vkládat do cookies uložené údaje s Vašimi osobními údaji poskytnutými při registraci nebo nákupu. Viz používání souborů cookie."
                     ]
                 },
                 {
-                    "title": "Modification of the Privacy Policy",
+                    "title": "Úprava zásad ochrany soukromí",
                     "content": [
-                        "SAH reserves the right to modify the privacy policy expressed herein, according to its own criteria or by reason of any legislative, jurisprudential and doctrinal changes in the Spanish Agency of data protection.",
-                        "Any change to the Privacy Policy will be published prior to its effective implementation. The mere use of the Website or access passwords after these changes, will imply the acceptance this policy."
+                        "Společnost SAH si vyhrazuje právo upravit zde uvedené zásady ochrany osobních údajů podle svých vlastních kritérií nebo z důvodu legislativních, judikaturních a doktrinálních změn ve španělském Úřadu pro ochranu osobních údajů.",
+                        "Jakákoli změna zásad ochrany osobních údajů bude zveřejněna před jejím účinným provedením. Samotné používání webových stránek nebo přístupových hesel po těchto změnách bude znamenat souhlas s těmito zásadami."
                     ]
                 }
             ]
@@ -507,64 +507,64 @@ export default {
     },
     "jobs": {
         "head": {
-            "title": "Work as English Teacher - Teach English Online - TEFL jobs - Speakingathome",
-            "description": "Work as English teacher with Speakingathome, teach English as a second language by Skype, teleworking from home, and with flexible schedule. The perfect TELF job. Speakingathome is an online English language school specialized in teaching and improving both written and spoken English through English conversation lessons by Skype",
-            "keywords": "Work as English teacher, TEFL jobs, Teach English online, Teach English by Skype, teach english online jobs, I want to teach english online"
+            "title": "Pracujte jako učitel angličtiny - Učte angličtinu online - TEFL jobs - Speakingathome",
+            "description": "Pracujte jako učitel angličtiny se Speakingathome, vyučujte angličtinu jako druhý jazyk přes Skype, pracujte z domova na dálku a s flexibilním rozvrhem. Perfektní práce TELF. Speakingathome je online jazyková škola angličtiny zaměřená na výuku a zlepšování psaného i mluveného projevu prostřednictvím lekcí anglické konverzace pomocí programu Skype.",
+            "keywords": "Pracujte jako učitel angličtiny, Práce TEFL, Učte angličtinu online, Učte angličtinu přes Skype, Učte angličtinu online, Chci učit angličtinu online"
         },
         "body": {
-            "apply": "Apply",
-            "title": "NATIVE ENGLISH TEACHER JOB OFFER",
+            "apply": "Použít",
+            "title": "NABÍDKA PRÁCE PRO RODILÉHO MLUVČÍHO ANGLIČTINY",
             "introduction": {
                 "texts": [
-                    "<strong>Speakingathome is an online English language school specializing in teaching and improving both written and spoken English through English conversation lessons by Skype</strong>. We are a young and dynamic school and we believe in the advantages that technology offers to teaching language.",
-                    "Do you want to be part of our teaching team? Please find the details about our <strong>job offer for teachers of English as a second language below:</strong>"
+                    "<strong>Speakingathome je online jazyková škola angličtiny specializující se na výuku a zlepšování psané i mluvené angličtiny prostřednictvím lekcí anglické konverzace pomocí programu Skype</strong>. Jsme mladá a dynamická škola a věříme ve výhody, které technologie nabízí při výuce jazyka.",
+                    "Chcete se stát součástí našeho učitelského týmu? Níže naleznete podrobnosti o naší <strong>nabídce práce pro učitele angličtiny jako druhého jazyka:</strong>"
                 ]
             },
             "sections": [
                 {
-                    "title": "REQUIREMENTS:",
+                    "title": "POŽADAVKY:",
                     "content": [
                         {
                             "type": "unorderedList",
                             "texts": [
-                                "A passion for teaching English, and the ability to transfer that passion to your students.",
-                                "You need to be a native-English speaker with an academic record.",
-                                "You need to have previous experience teaching English.",
-                                "Strong commitment and responsibility for the job.",
-                                "You need to have good verbal skills, and be creative and open-minded.",
-                                "You need to own a personal computer and to have a good Internet connection."
+                                "Vášeň pro výuku angličtiny a schopnost přenést ji na své studenty.",
+                                "Musíte být rodilý mluvčí s akademickými výsledky.",
+                                "Musíte mít předchozí zkušenosti s výukou angličtiny.",
+                                "Silné pracovní nasazení a zodpovědnost za práci.",
+                                "Musíte mít dobré řečnické schopnosti a být kreativní a otevřený.",
+                                "Musíte vlastnit osobní počítač a mít dobré internetové připojení."
                             ]
                         }
                     ]
                 },
                 {
-                    "title": "REQUIREMENTS THAT WILL ESPECIALLY BE CONSIDERED:",
+                    "title": "POŽADAVKY, KTERÉ BUDOU OBZVLÁŠTĚ ZOHLEDNĚNY:",
                     "content": [
                         {
                             "type": "unorderedList",
                             "texts": [
-                                "TEFL (Teaching English as a Foreign Language) Certificate",
-                                "CELTA (Certificate in English Language Teaching to Adults)",
-                                "Bilingualism and experience learning languages.",
-                                "Experience living in other countries."
+                                "Certifikát TEFL (výuka angličtiny jako cizího jazyka)",
+                                "CELTA ( certifikát pro výuku angličtiny pro dospělé)",
+                                " Dvoujazyčnost a zkušenosti s výukou jazyků.",
+                                 "Zkušenosti s pobytem v jiných zemích."
                             ]
                         }
                     ]
                 },
                 {
-                    "title": "ADVANTAGES:",
+                    "title": "VÝHODY:",
                     "content": [
                         {
                             "type": "unorderedList",
                             "texts": [
-                                "Competitive remuneration for each lesson.",
-                                "Teleworking. Teaching English from wherever you are.",
-                                "Flexible schedule. You choose your availability within a minimum number of hours each week.",
-                                "Stable job, compatible with your social life, others jobs, and even with your studies.",
-                                "Good job environment. Active students with an appetite for learning."
+                                " konkurenceschopná výše odměny za každou lekci.",
+                                "Práce na dálku. Výuka angličtiny odkudkoli.",
+                                "Flexibilní rozvrh. Sami si zvolíte svou dostupnost v rámci minimálního počtu hodin týdně.",
+                                "Stabilní práce, slučitelná s Vaším společenským životem, ostatními zaměstnáními, a dokonce i se studiem.",
+                                "Dobré pracovní prostředí. Aktivní studenti s chutí do vzdělávání."
                             ]
                         },
-                        "If you are interested and meet the requirements, use the form below."
+                        "Pokud máte zájem a splňujete požadavky, využijte prosím níže uvedený formulář."
                     ]
                 }
             ]
@@ -572,7 +572,7 @@ export default {
     },
     "job-form": {
         "head": {
-            "title": "Teacher application",
+            "title": "Přihláška pro učitele",
             "description": "",
             "keywords": ""
         }
