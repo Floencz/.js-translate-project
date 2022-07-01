@@ -24,7 +24,7 @@ export default {
         "privacy_policy": "ZÁSADY OCHRANY OSOBNÍCH ÚDAJŮ",
         "work_as_english_teacher": "SPOLUPRACUJTE S NÁMI",
         "login": "PŘIHLÁSIT SE",
-        "web_map": "SITEMAP",
+        "web_map": "Mapa stránek",
         "legal_notice": "PRÁVNÍ STRÁNKA",
         "contact": "KONTAKT"
     },
@@ -52,7 +52,7 @@ export default {
                     "author": "ROCIO GONZÁLEZ / CÁCERES (EXTREMADURA)"
                 },
                 {
-                    "text": "\"V mé firmě dotují výuku angličtiny. Prohledala jsem několik webových stránek, ale pouze Speakingathome splňoval všechny požadavky stanovené mou společností. Faktura, potvrzování docházky, úrovně testů a kvalita.\"",
+                    "text": "\"V mé firmě dotují výuku angličtiny. Prohledala jsem několik webových stránek, ale pouze Speakingathome splňoval všechny požadavky stanovené mou společností. Faktury, potvrzování docházky, úrovně testů a kvalitu.\"",
                     "author": "VERÓNICA / MADRID"
                 }
             ]
@@ -223,7 +223,7 @@ export default {
                 },
                 {
                     "question": "Jaké kroky mohu podniknout pro optimalizaci kvality videokonferencí?",
-                    "answer": "Skype je jedním z předních videokonferenčních systému na celém světě a jeho videokonference často poskytují optimální kvalitu. Pokud si všimnete, že je lekce problematická z hlediska kvality obrazu nebo zvuku, zkontrolujte, zda soubory nestahuje nějaký software, například EMule, BitTorrent apod. Tyto programy spotřebovávají významnou šířku pásma, takže pro správné použití videokonference přes Skype zbývá jen malá šířka pásma. Pokud i přes vypnutí tohoto druhu programu máte stále problémy s připojením, můžete se rozhodnout vypnout video pro Skype a účastnit se výuky pouze v režimu zvuku. Tím se sníží potřeba šířky pásma aplikace Skype."
+                    "answer": "Skype je jedním z předních videokonferenčních systému na světě a jeho videokonference často poskytují optimální kvalitu. Pokud si všimnete, že je lekce problematická z hlediska kvality obrazu nebo zvuku, zkontrolujte, zda soubory nestahuje nějaký software, například EMule, BitTorrent apod. Tyto programy spotřebovávají významnou šířku pásma, takže pro správné použití videokonference přes Skype zbývá jen malá šířka pásma. Pokud i přes vypnutí tohoto druhu programu máte stále problémy s připojením, můžete se rozhodnout vypnout video pro Skype a účastnit se výuky pouze v režimu zvuku. Tím se sníží potřeba šířky pásma aplikace Skype."
                 },
                 {
                     "question": "Můžete mi vystavit fakturu za nákup?",
@@ -328,13 +328,13 @@ export default {
             },
             "loading": {
                 "title": "Potvrzování Vaší platby",
-                "description": "Děkujeme za důvěru, kterou jste nám projevili. Zpracováváme vaši platbu. Vydržte prosím."
+                "description": "Děkujeme za důvěru, kterou jste nám projevili. Zpracováváme Vaši platbu. Vydržte prosím."
             },
             "paid": {
                 "title": "Nákup je dokončen!",
                 "thank_you": "Děkujeme Vám za důvěru.",
-                "processed": "Platební transakce byla provedena a brzy obdržíte potvrzovací e-mail.",
-                "details": "Toto je váš kurz:",
+                "processed": "Platební transakce byla provedena a brzy obdržíte potvrzovací E-mail.",
+                "details": "Toto je Váš kurz:",
                 "book-now": "Zarezervujte si lekce nyní!"
             },
             "transfer": {
@@ -350,7 +350,7 @@ export default {
             },
             "error": {
                 "payment-not-found": "Platba nebyla nalezena",
-                "payment-description": "Nemůžeme najít Vaši platbu, napište nám prosím e-mail contact@speakingathome.com."
+                "payment-description": "Nemůžeme najít Vaši platbu, napište nám prosím e-mail na contact@speakingathome.com."
             }
         }
     },
@@ -381,10 +381,10 @@ export default {
         },
         "body": {
             "title": "OBNOVENÍ HESLA",
-            "success": "Zkontrolujte si prosím svou e-mailovou schránku. Poslali jsme vám e-mailem odkaz pro obnovení hesla. (Pouze v případě, že vaše e-mailová adresa má vytvořený účet v našem systému).",
-            "description": "Pokud jste zapomněli své heslo, zadejte prosím svou e-mailovou adresu a my vám zašleme e-mail pro obnovení hesla.",
+            "success": "Zkontrolujte si prosím svou e-mailovou schránku. Poslali jsme Vám e-mailem odkaz pro obnovení hesla. (Pouze v případě, že Vaše e-mailová adresa má vytvořený účet v našem systému).",
+            "description": "Pokud jste zapomněli své heslo, zadejte prosím svou e-mailovou adresu a my Vám zašleme e-mail pro obnovení hesla.",
             "email": "E-mail",
-            "submit": "Odeslat e-mail"
+            "submit": "Odeslat E-mail"
         }
     },
     "set-password": {
@@ -394,7 +394,7 @@ export default {
             "keywords": ""
         },
         "body": {
-            "success": "Vaše nové heslo bylo zdárně uloženo.",
+            "success": "Vaše nové heslo bylo úspěšně uloženo.",
             "login": "Přihlášení",
             "title": "NASTAVTE SI PROSÍM NOVÉ HESLO",
             "token-expired": "Je možné, že doba připojení k této webové adrese již vypršela nebo že jste adresu URL napsali chybně. Zkontrolujte, zda byla webová adresa správně opsána, nebo to zkuste znovu.",
@@ -412,7 +412,7 @@ export default {
         },
         "body": {
             "title": "Aktualizování webové aplikace",
-            "description": "Webová aplikace se obnovuje, protože došlo k aktualizaci. Vydržte, prosím."
+            "description": "Webová aplikace se obnovuje, protože došlo k aktualizaci. Vydržte prosím."
         }
     },
     "error_page_404": {
@@ -437,14 +437,14 @@ export default {
         "body": {
             "title": "CHYBA",
             "description": "Interní chyba serveru",
-            "advice": "Na našem serveru se něco pokazilo, zkuste to prosím za několik minut znovu.",
+            "advice": "Na našem serveru se něco pokazilo. Zkuste to prosím za několik minut znovu.",
             "refresh": "Obnovit"
         }
     },
     "login": {
         "head": {
             "title": "Přihlášení - Speakingathome",
-            "description": "Přístup do Speakingathome, online portálu pro online studenty a individuální služby. Ve své vyhrazené oblasti si můžete zkontrolovat údaje a čas příští hodiny.",
+            "description": "Přístup do Speakingathome, online portálu pro online studenty a individuální služby. Ve své vyhrazené oblasti si můžete zkontrolovat údaje a čas příští lekce.",
             "keywords": ""
         },
         "body": {
@@ -452,7 +452,7 @@ export default {
             "new-user": "Nemáte účet?",
             "click-here": "Klikněte zde",
             "with-social-media": "Pomocí sociálních sítí",
-            "with-email":  "Pomocí e-mailu"
+            "with-email":  "Pomocí E-mailu"
         }
     },
     "register": {
@@ -469,8 +469,8 @@ export default {
             "with-social-media": "Pomocí sociálních sítí",
             "with-facebook": "Pokračovat přes Facebook",
             "with-google": "Pokračovat přes Google",
-            "with-email": "pomocí e-mailu",
-            "continue-with-email": "pokračovat pomocí e-mailu",
+            "with-email": "pomocí E-mailu",
+            "continue-with-email": "pokračovat pomocí E-mailu",
             "or": "Nebo",
             "another-option": "Zaregistrujte se pomocí jiné možnosti"
         }
@@ -481,7 +481,7 @@ export default {
         "forgot_password": "Zapomněli jste heslo?",
         "login": "Přihlášení",
         "register": "Registrace",
-        "bad_credentials": "aný e-mail a heslo neodpovídají našim záznamům. Zkontrolujte je prosím a zkuste to znovu."
+        "bad_credentials": "zadaný e-mail a heslo neodpovídají našim záznamům. Zkontrolujte je prosím a zkuste to znovu."
     },
     "register_form": {
         "first_name": "Křestní jméno",
@@ -491,7 +491,7 @@ export default {
         "password_hint": "Heslo musí mít 6 nebo více znaků",
         "phone": "Číslo mobilního telefonu",
         "skype": "Účet Skype",
-        "skype-hint": "ID nebo e-mail",
+        "skype-hint": "ID nebo E-mail",
         "country": "Země",
         "sign_in": "Přihlásit se",
         "terms_and_conditions": "Kliknutím na tlačítko Pokračovat dáváte najevo, že jste si přečetli <a href=\"{terms_link}\" target=\"_blank\">Obchodní podmínky</a> a <a href=\"{privacy_link}\" target=\"_blank\">Zásady ochrany osobních údajů</a> našeho webu, že jim rozumíte a souhlasíte s nimi."
@@ -503,13 +503,13 @@ export default {
             "keywords": ""
         },
         "body": {
-            "title": "Zaregistrujte se zdarma a začněte mluvit s rodilými lektory!",
+            "title": "Zaregistrujte se zdarma a začněte mluvit s rodilými mluvčími!",
             "subtitle": "",
             "try-free": "Vyzkoušejte zdarma",
             "first-lesson-free": "PRVNÍ LEKCE JE ZDARMA!",
             "terms_and_conditions": "Kliknutím na tlačítko Vyzkoušet zdarma dáváte najevo, že jste si přečetli <a href=\"{terms_link}\" target=\"_blank\">Obchodní podmínky</a> a <a href=\"{privacy_link}\" target=\"_blank\">Zásady ochrany osobních údajů</a> našeho webu, že jim rozumíte a souhlasíte s nimi.",
             "please-register": "Pro získání lekce zdarma se zaregistrujte.",
-            "telephone-explanation": "(Použijeme jej pouze v případě, že se vyskytne nějaký problém se Skypem)",
+            "telephone-explanation": "(Použijeme jej pouze v případě, že se vyskytne nějaký problém se službou Skype)",
             "slides": [{
                 "img": "Andrea.jpg",
                 "name": "Andrea",
