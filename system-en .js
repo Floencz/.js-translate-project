@@ -27,7 +27,7 @@ export default {
             "assign": "Přiřadit",
             "booked-lessons": "Rezervované lekce",
             "no-booked-lessons": "Nemáte žádné zarezervované lekce",
-            "no-recent-lessons": "Neexistují žádné nedávné lekces",
+            "no-recent-lessons": "Neexistují žádné nedávné lekce",
             "contact": "Kontakt",
             "cancel": "Zrušit",
             "cancel-message": "Lekce lze zrušit pouze 12 hodin předem.",
@@ -176,7 +176,7 @@ export default {
     },
     "evaluate-teacher-dialog": {
         "title": "Zhodnoťte lekci s {name}",
-        "error": "Při odesílání vašeho hodnocení došlo k chybě. Zkuste to prosím znovu.",
+        "error": "Při odesílání Vašeho hodnocení došlo k chybě. Zkuste to prosím znovu.",
         "description": "Ohodnoťte svou lekci dne {date}::",
         "text": "Optional: Napište nám, co bychom mohli zlepšit.",
         "resend-to-teacher": "Učitel dostane hodnocení.",
@@ -223,7 +223,7 @@ export default {
     },
     "skype-dialog": {
         "title": "Je vyžadován účet Skype",
-        "skype-explanation": "Abyste se mohli zúčastnit lekce, potřebujeme, abyste zadali své ID Skype nebo e-mail.",
+        "skype-explanation": "Abyste se mohli zúčastnit lekce, potřebujeme, abyste zadali své ID Skype nebo E-mail.",
         "telephone-explanation": "Kromě toho je nutné uvést telefonní číslo, na kterém Vás budeme moci kontaktovat v případě výskytu jakéhokoli problému."
     },
     "terms-and-conditions-dialog": {
