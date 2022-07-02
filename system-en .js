@@ -283,7 +283,7 @@ export default {
         "time-not-available": "Není k dispozici od {start} do {end}",
         "not-available": "Není k dispozici",
         "already-booked": "Rezervováno",
-        "free": "Volný",
+        "free": "Volno",
         "minimum-time": "Minimální doba rezervace je 12 hodin předem s výjimkou rychlých rezervací ⚡.",
         "select-time": "vyberte volné časy",
         "no-availability": "Žádná dostupnost",
