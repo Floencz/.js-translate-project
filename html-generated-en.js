@@ -490,7 +490,7 @@ export default {
                 {
                     "title": "Soubory cookies",
                     "content": [
-                        "Soubory cookies jsou malé informace, které potřebujeme k tomu, abychom mohli identifikovat uživatele během návštěvy našich webových stránek a po dobu, po kterou je připojen. Prohlížeč uživatele ukládá soubory cookie na pevný disk pouze během aktuální relace, přičemž tyto soubory zabírají minimální místo v paměti a nepoškozují počítač. Soubory cookie neobsahují žádné konkrétní osobní údaje a většina z nich je na konci relace prohlížeče z pevného disku opět vymazána (tzv. soubory cookies relace).",
+                        "Soubory cookies jsou malé informace, které potřebujeme k tomu, abychom mohli identifikovat uživatele během návštěvy našich webových stránek a po dobu, po kterou je připojen. Prohlížeč uživatele ukládá soubory cookies na pevný disk pouze během aktuální relace, přičemž tyto soubory zabírají minimální místo v paměti a nepoškozují počítač. Soubory cookies neobsahují žádné konkrétní osobní údaje a většina z nich je na konci relace prohlížeče z pevného disku opět vymazána (tzv. soubory cookies relace).",
                         "Většina prohlížečů soubory cookies standardně přijímá a nezávisle na nich můžete v nastavení zabezpečení povolit nebo zablokovat dočasné nebo uložené soubory cookies.",
                         "Bez Vašeho jednoznačného souhlasu - povolením cookies ve Vašem prohlížeči - nebude společnost SAH vkládat do cookies uložené údaje s Vašimi osobními údaji poskytnutými při registraci nebo nákupu. Viz používání souborů cookie."
                     ]
