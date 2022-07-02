@@ -607,7 +607,7 @@ export default {
             {
                 "id": "price",
                 "title": "NEJKONKURENCESCHOPNĚJŠÍ CENY",
-                "description": "Když se pozorně podíváte na naše plány výuky tak zjistíte, že jsme cenově nejvýhodnější."
+                "description": "Když se pozorně podíváte na naše plány výuky tak zjistíte, že jsme cenově nejdostupnější."
             },
             {
                 "id": "topic",
@@ -681,7 +681,7 @@ export default {
             "not-found": "E-mail není registrován"
         },
         "password": {
-            "repeat-not-match": "Zadaná hesla nesouhlasí"
+            "repeat-not-match": "Zadaná hesla navzájem nesouhlasí"
         },
         "skypeAccount": {
             "unique": "ID pro skype je již použito"
