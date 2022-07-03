@@ -694,7 +694,7 @@ export default {
         },
         "not-valid-phone": "Telefonní číslo je neplatné",
         "recaptcha-not-valid-h1": "Nejsme si jisti, zda jste člověk.",
-        "recaptcha-not-valid-message": "Vyskytl se problém s ověřením recaptcha. Kontaktujte nás prosím na adrese contact@speakingathome.com"
+        "recaptcha-not-valid-message": "Vyskytl se problém s ověřením re-captcha. Kontaktujte nás prosím na e-mailové adrese contact@speakingathome.com"
     },
     "chat": {
         "key": "5a684fd14b401e45400c5956/1c4jt4763"
