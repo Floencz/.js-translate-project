@@ -113,7 +113,7 @@ export default {
             "country": "Země",
             "language": "Jazyk",
             "skype": "Účet služby Skype",
-            "send-reminders": "Připomínky",
+            "send-reminders": "Upozornění",
             "save": "Uložit",
             "transactions": "Moje balíčky",
             "item": "Položka",
