@@ -201,7 +201,7 @@ export default {
                             "type": "subsection",
                             "title": "Videonahrávky lekcí",
                             "content": [
-                                "SAH mezi svými doplňkovými službami umožňuje, aby si UČITEL výuku nahrával a následně tuto nahrávku odeslal uživateli.",
+                                "Společnost SAH mezi svými doplňkovými službami umožňuje, aby si UČITEL výuku nahrával a následně tuto nahrávku odeslal uživateli.",
                                 "Vzhledem k tomu, že se SAH neúčastní nahrávání, nemůže zaručit jeho dokončení, které je podmíněno dostupností a funkčností technických prostředků nebo spojení nezbytného pro uživatele a UČITELE uvedeného nahrávání. Přístup k prostředkům, k nimž SAH nemá přístup.",
                                 "Uživatel bere na vědomí, že nahrávání výuky bude probíhat výhradně na základě výslovné žádosti uživatele v okamžiku žádosti o nahrávání a za podmínek stanovených v zásadách ochrany osobních údajů SAH. Nahrávku pořídí a zašle přímo UČITEL. A bude použita pouze pro poskytnutí Uživateli, jako prostředek analýzy kvality poskytované služby nebo v případě konfliktu mezi některým z těchto subjektů: Uživatelem, Učitelem, SAH.",
                                 "Uživatel výslovně bere na vědomí, že SAH neukládá nahrávky na svých serverech ani k nim nemá přímý přístup a že jakýkoli nárok nebo uplatnění práv k uvedené nahrávce, jejímu obsahu nebo použití mimo tyto podmínky je třeba adresovat učiteli, na jehož počítači je soubor s nahrávkou uložen.",
